@@ -1,0 +1,1032 @@
+ {"language": "danish",
+        "grammarPoints":[
+        {    
+        "grammarPoint":"nouns",
+        "subCategory": "pluralForm",
+        "Title":"Danish-Nouns-Plural Form",
+        "exercises":[
+            {
+                "text": "bog",
+                "correctAnswer": "bøger",
+                "ChineseTranslation": "书",
+                "EnglishTranslation": "book"
+            },
+            {
+                "text": "bil",
+                "correctAnswer": "biler",
+                "ChineseTranslation": "汽车",
+                "EnglishTranslation": "car"
+            },
+            {
+                "text": "hus",
+                "correctAnswer": "huse",
+                "ChineseTranslation": "房子",
+                "EnglishTranslation": "house"
+            },
+            {
+                "text": "kat",
+                "correctAnswer": "katte",
+                "ChineseTranslation": "猫",
+                "EnglishTranslation": "cat"
+            },
+            {
+                "text": "hund",
+                "correctAnswer": "hunde",
+                "ChineseTranslation": "狗",
+                "EnglishTranslation": "dog"
+            },
+            {
+                "text": "stol",
+                "correctAnswer": "stole",
+                "ChineseTranslation": "椅子",
+                "EnglishTranslation": "chair"
+            },
+            {
+                "text": "bord",
+                "correctAnswer": "borde",
+                "ChineseTranslation": "桌子",
+                "EnglishTranslation": "table"
+            },
+            {
+                "text": "barn",
+                "correctAnswer": "børn",
+                "ChineseTranslation": "孩子",
+                "EnglishTranslation": "child"
+            },
+            {
+                "text": "ven",
+                "correctAnswer": "venner",
+                "ChineseTranslation": "朋友",
+                "EnglishTranslation": "friend"
+            },
+            {
+                "text": "skole",
+                "correctAnswer": "skoler",
+                "ChineseTranslation": "学校",
+                "EnglishTranslation": "school"
+            },
+            {
+                "text": "butik",
+                "correctAnswer": "butikker",
+                "ChineseTranslation": "商店",
+                "EnglishTranslation": "shop"
+            },
+            {
+                "text": "by",
+                "correctAnswer": "byer",
+                "ChineseTranslation": "城市",
+                "EnglishTranslation": "city"
+            },
+            {
+                "text": "æble",
+                "correctAnswer": "æbler",
+                "ChineseTranslation": "苹果",
+                "EnglishTranslation": "apple"
+            },
+            {
+                "text": "dag",
+                "correctAnswer": "dage",
+                "ChineseTranslation": "天/日",
+                "EnglishTranslation": "day"
+            },
+            {
+                "text": "uge",
+                "correctAnswer": "uger",
+                "ChineseTranslation": "星期",
+                "EnglishTranslation": "week"
+            },
+            {
+                "text": "måned",
+                "correctAnswer": "måneder",
+                "ChineseTranslation": "月",
+                "EnglishTranslation": "month"
+            },
+            {
+                "text": "år",
+                "correctAnswer": "år",
+                "ChineseTranslation": "年",
+                "EnglishTranslation": "year"
+            },
+            {
+                "text": "hånd",
+                "correctAnswer": "hænder",
+                "ChineseTranslation": "手",
+                "EnglishTranslation": "hand"
+            },
+            {
+                "text": "fod",
+                "correctAnswer": "fødder",
+                "ChineseTranslation": "脚",
+                "EnglishTranslation": "foot"
+            },
+            {
+                "text": "øje",
+                "correctAnswer": "øjne",
+                "ChineseTranslation": "眼睛",
+                "EnglishTranslation": "eye"
+            },
+            {
+                "text": "nøgle",
+                "correctAnswer": "nøgler",
+                "ChineseTranslation": "钥匙",
+                "EnglishTranslation": "key"
+            },
+            {
+                "text": "vindue",
+                "correctAnswer": "vinduer",
+                "ChineseTranslation": "窗户",
+                "EnglishTranslation": "window"
+            },
+            {
+                "text": "dør",
+                "correctAnswer": "døre",
+                "ChineseTranslation": "门",
+                "EnglishTranslation": "door"
+            },
+            {
+                "text": "seng",
+                "correctAnswer": "senge",
+                "ChineseTranslation": "床",
+                "EnglishTranslation": "bed"
+            },
+            {
+                "text": "kop",
+                "correctAnswer": "kopper",
+                "ChineseTranslation": "杯子",
+                "EnglishTranslation": "cup"
+            },
+            {
+                "text": "tallerken",
+                "correctAnswer": "tallerkener",
+                "ChineseTranslation": "盘子",
+                "EnglishTranslation": "plate"
+            },
+            {
+                "text": "sko",
+                "correctAnswer": "sko",
+                "ChineseTranslation": "鞋子",
+                "EnglishTranslation": "shoe"
+            },
+            {
+                "text": "bogstav",
+                "correctAnswer": "bogstaver",
+                "ChineseTranslation": "字母",
+                "EnglishTranslation": "letter"
+            },
+            {
+                "text": "computer",
+                "correctAnswer": "computere",
+                "ChineseTranslation": "电脑",
+                "EnglishTranslation": "computer"
+            },
+            {
+                "text": "telefon",
+                "correctAnswer": "telefoner",
+                "ChineseTranslation": "电话",
+                "EnglishTranslation": "phone"
+            },
+            {
+                "text": "gade",
+                "correctAnswer": "gader",
+                "ChineseTranslation": "街道",
+                "EnglishTranslation": "street"
+            },
+            {
+                "text": "tøj",
+                "correctAnswer": "tøj",
+                "ChineseTranslation": "衣服",
+                "EnglishTranslation": "clothes"
+            },
+            {
+                "text": "arbejde",
+                "correctAnswer": "arbejder",
+                "ChineseTranslation": "工作",
+                "EnglishTranslation": "job"
+            },
+            {
+                "text": "veninde",
+                "correctAnswer": "veninder",
+                "ChineseTranslation": "女朋友（友）",
+                "EnglishTranslation": "female friend"
+            },
+            {
+                "text": "billede",
+                "correctAnswer": "billeder",
+                "ChineseTranslation": "图片/照片",
+                "EnglishTranslation": "picture"
+            },
+            {
+                "text": "rejse",
+                "correctAnswer": "rejser",
+                "ChineseTranslation": "旅行",
+                "EnglishTranslation": "trip"
+            },
+            {
+                "text": "morgen",
+                "correctAnswer": "morgener",
+                "ChineseTranslation": "早晨",
+                "EnglishTranslation": "morning"
+            },
+            {
+                "text": "kaffe",
+                "correctAnswer": "kaffer",
+                "ChineseTranslation": "咖啡",
+                "EnglishTranslation": "coffee"
+            },
+            {
+                "text": "kage",
+                "correctAnswer": "kager",
+                "ChineseTranslation": "蛋糕",
+                "EnglishTranslation": "cake"
+            },
+            {
+                "text": "avis",
+                "correctAnswer": "aviser",
+                "ChineseTranslation": "报纸",
+                "EnglishTranslation": "newspaper"
+            },
+            {
+                "text": "penge",
+                "correctAnswer": "penge",
+                "ChineseTranslation": "钱",
+                "EnglishTranslation": "money"
+            },
+            {
+                "text": "øl",
+                "correctAnswer": "øl",
+                "ChineseTranslation": "啤酒",
+                "EnglishTranslation": "beer"
+            },
+            {
+                "text": "blomst",
+                "correctAnswer": "blomster",
+                "ChineseTranslation": "花",
+                "EnglishTranslation": "flower"
+            },
+            {
+                "text": "trøje",
+                "correctAnswer": "trøjer",
+                "ChineseTranslation": "毛衣",
+                "EnglishTranslation": "sweater"
+            },
+            {
+                "text": "læge",
+                "correctAnswer": "læger",
+                "ChineseTranslation": "医生",
+                "EnglishTranslation": "doctor"
+            },
+            {
+                "text": "billet",
+                "correctAnswer": "billetter",
+                "ChineseTranslation": "票",
+                "EnglishTranslation": "ticket"
+            },
+            {
+                "text": "lys",
+                "correctAnswer": "lys",
+                "ChineseTranslation": "光/灯",
+                "EnglishTranslation": "light"
+            },
+            {
+                "text": "land",
+                "correctAnswer": "lande",
+                "ChineseTranslation": "国家",
+                "EnglishTranslation": "country"
+            },
+            {
+                "text": "bror",
+                "correctAnswer": "brødre",
+                "ChineseTranslation": "兄弟",
+                "EnglishTranslation": "brother"
+            },
+            {
+                "text": "søster",
+                "correctAnswer": "søstre",
+                "ChineseTranslation": "姐妹",
+                "EnglishTranslation": "sister"
+            }
+    
+        ]
+    
+    },
+    {"grammarPoint":"nouns",
+        "subCategory": "gender",
+        "Title":"Danish-Nouns-Gender",
+        "exercises": [
+            {
+                "text": "hus",
+                "correctAnswer": "et",
+                "ChineseTranslation": "房子",
+                "EnglishTranslation": "house"
+            },
+            {
+                "text": "bil",
+                "correctAnswer": "en",
+                "ChineseTranslation": "汽车",
+                "EnglishTranslation": "car"
+            },
+            {
+                "text": "bog",
+                "correctAnswer": "en",
+                "ChineseTranslation": "书",
+                "EnglishTranslation": "book"
+            },
+            {
+                "text": "stol",
+                "correctAnswer": "en",
+                "ChineseTranslation": "椅子",
+                "EnglishTranslation": "chair"
+            },
+            {
+                "text": "bord",
+                "correctAnswer": "et",
+                "ChineseTranslation": "桌子",
+                "EnglishTranslation": "table"
+            },
+            {
+                "text": "kat",
+                "correctAnswer": "en",
+                "ChineseTranslation": "猫",
+                "EnglishTranslation": "cat"
+            },
+            {
+                "text": "hund",
+                "correctAnswer": "en",
+                "ChineseTranslation": "狗",
+                "EnglishTranslation": "dog"
+            },
+            {
+                "text": "barn",
+                "correctAnswer": "et",
+                "ChineseTranslation": "孩子",
+                "EnglishTranslation": "child"
+            },
+            {
+                "text": "skole",
+                "correctAnswer": "en",
+                "ChineseTranslation": "学校",
+                "EnglishTranslation": "school"
+            },
+            {
+                "text": "by",
+                "correctAnswer": "en",
+                "ChineseTranslation": "城市",
+                "EnglishTranslation": "city"
+            },
+            {
+                "text": "æble",
+                "correctAnswer": "et",
+                "ChineseTranslation": "苹果",
+                "EnglishTranslation": "apple"
+            },
+            {
+                "text": "dag",
+                "correctAnswer": "en",
+                "ChineseTranslation": "天/日",
+                "EnglishTranslation": "day"
+            },
+            {
+                "text": "uge",
+                "correctAnswer": "en",
+                "ChineseTranslation": "星期",
+                "EnglishTranslation": "week"
+            },
+            {
+                "text": "vindue",
+                "correctAnswer": "et",
+                "ChineseTranslation": "窗户",
+                "EnglishTranslation": "window"
+            },
+            {
+                "text": "dør",
+                "correctAnswer": "en",
+                "ChineseTranslation": "门",
+                "EnglishTranslation": "door"
+            },
+            {
+                "text": "seng",
+                "correctAnswer": "en",
+                "ChineseTranslation": "床",
+                "EnglishTranslation": "bed"
+            },
+            {
+                "text": "kop",
+                "correctAnswer": "en",
+                "ChineseTranslation": "杯子",
+                "EnglishTranslation": "cup"
+            },
+            {
+                "text": "tallerken",
+                "correctAnswer": "en",
+                "ChineseTranslation": "盘子",
+                "EnglishTranslation": "plate"
+            },
+            {
+                "text": "sko",
+                "correctAnswer": "en",
+                "ChineseTranslation": "鞋子",
+                "EnglishTranslation": "shoe"
+            },
+            {
+                "text": "computer",
+                "correctAnswer": "en",
+                "ChineseTranslation": "电脑",
+                "EnglishTranslation": "computer"
+            },
+            {
+                "text": "telefon",
+                "correctAnswer": "en",
+                "ChineseTranslation": "电话",
+                "EnglishTranslation": "phone"
+            },
+            {
+                "text": "gade",
+                "correctAnswer": "en",
+                "ChineseTranslation": "街道",
+                "EnglishTranslation": "street"
+            },
+            {
+                "text": "arbejde",
+                "correctAnswer": "et",
+                "ChineseTranslation": "工作",
+                "EnglishTranslation": "job"
+            },
+            {
+                "text": "billede",
+                "correctAnswer": "et",
+                "ChineseTranslation": "图片/照片",
+                "EnglishTranslation": "picture"
+            },
+            {
+                "text": "kaffe",
+                "correctAnswer": "en",
+                "ChineseTranslation": "咖啡",
+                "EnglishTranslation": "coffee"
+            },
+            {
+                "text": "avis",
+                "correctAnswer": "en",
+                "ChineseTranslation": "报纸",
+                "EnglishTranslation": "newspaper"
+            },
+            {
+                "text": "blomst",
+                "correctAnswer": "en",
+                "ChineseTranslation": "花",
+                "EnglishTranslation": "flower"
+            },
+            {
+                "text": "lys",
+                "correctAnswer": "et",
+                "ChineseTranslation": "光/灯",
+                "EnglishTranslation": "light"
+            },
+            {
+                "text": "land",
+                "correctAnswer": "et",
+                "ChineseTranslation": "国家",
+                "EnglishTranslation": "country"
+            },
+            {
+                "text": "billet",
+                "correctAnswer": "en",
+                "ChineseTranslation": "票",
+                "EnglishTranslation": "ticket"
+            }
+        ]
+},
+{    
+    "grammarPoint":"verbs",
+    "subCategory": "pastTense",
+    "Title":"Danish-Verbs-Past Tense",
+    "exercises": [
+        { 
+            "text": "acceptere", 
+            "correctAnswer": "accepterede",
+            "ChineseTranslation": "接受",
+            "EnglishTranslation": "to accept"
+        },
+        { 
+            "text": "adskille", 
+            "correctAnswer": "adskilte",
+            "ChineseTranslation": "分离",
+            "EnglishTranslation": "to separate"
+        },
+        { 
+            "text": "advare", 
+            "correctAnswer": "advarede",
+            "ChineseTranslation": "警告",
+            "EnglishTranslation": "to warn"
+        },
+        { 
+            "text": "afbryde", 
+            "correctAnswer": "afbrød",
+            "ChineseTranslation": "打断",
+            "EnglishTranslation": "to interrupt"
+        },
+        { 
+            "text": "afgive", 
+            "correctAnswer": "afgav",
+            "ChineseTranslation": "交付/提供",
+            "EnglishTranslation": "to deliver/provide"
+        },
+        { 
+            "text": "afgøre", 
+            "correctAnswer": "afgjorde",
+            "ChineseTranslation": "决定",
+            "EnglishTranslation": "to decide"
+        },
+        { 
+            "text": "aflevere", 
+            "correctAnswer": "afleverede",
+            "ChineseTranslation": "交还/递交",
+            "EnglishTranslation": "to hand in/deliver"
+        },
+        { 
+            "text": "aflyse", 
+            "correctAnswer": "aflyste",
+            "ChineseTranslation": "取消",
+            "EnglishTranslation": "to cancel"
+        },
+        { 
+            "text": "afløse", 
+            "correctAnswer": "afløste",
+            "ChineseTranslation": "替代",
+            "EnglishTranslation": "to replace"
+        },
+        { 
+            "text": "afskaffe", 
+            "correctAnswer": "afskaffede",
+            "ChineseTranslation": "废除",
+            "EnglishTranslation": "to abolish"
+        },
+        { 
+            "text": "afslutte", 
+            "correctAnswer": "afsluttede",
+            "ChineseTranslation": "完成/结束",
+            "EnglishTranslation": "to finish/terminate"
+        },
+        { 
+            "text": "afvise", 
+            "correctAnswer": "afviste",
+            "ChineseTranslation": "拒绝",
+            "EnglishTranslation": "to reject"
+        },
+        { 
+            "text": "anbefale", 
+            "correctAnswer": "anbefalede",
+            "ChineseTranslation": "推荐",
+            "EnglishTranslation": "to recommend"
+        },
+        { 
+            "text": "anbringe", 
+            "correctAnswer": "anbragte",
+            "ChineseTranslation": "安置/安装",
+            "EnglishTranslation": "to place/position"
+        },
+        { 
+            "text": "ane", 
+            "correctAnswer": "anede",
+            "ChineseTranslation": "猜测/预感",
+            "EnglishTranslation": "to suspect/foresee"
+        },
+        { 
+            "text": "anerkende", 
+            "correctAnswer": "anerkendte",
+            "ChineseTranslation": "承认",
+            "EnglishTranslation": "to acknowledge"
+        },
+        { 
+            "text": "angive", 
+            "correctAnswer": "angav",
+            "ChineseTranslation": "指示/举报",
+            "EnglishTranslation": "to indicate/report"
+        },
+        { 
+            "text": "angå", 
+            "correctAnswer": "angik",
+            "ChineseTranslation": "涉及/关系到",
+            "EnglishTranslation": "to concern"
+        },
+        { 
+            "text": "anholde", 
+            "correctAnswer": "anholdt",
+            "ChineseTranslation": "逮捕",
+            "EnglishTranslation": "to arrest"
+        },
+        { 
+            "text": "ankomme", 
+            "correctAnswer": "ankom",
+            "ChineseTranslation": "到达",
+            "EnglishTranslation": "to arrive"
+        },
+        { 
+            "text": "anmelde", 
+            "correctAnswer": "anmeldte",
+            "ChineseTranslation": "报告/举报",
+            "EnglishTranslation": "to report"
+        },
+        { 
+            "text": "anse", 
+            "correctAnswer": "anså",
+            "ChineseTranslation": "认为",
+            "EnglishTranslation": "to consider"
+        },
+        { 
+            "text": "ansætte", 
+            "correctAnswer": "ansatte",
+            "ChineseTranslation": "雇用",
+            "EnglishTranslation": "to hire/employ"
+        },
+        { 
+            "text": "anvende", 
+            "correctAnswer": "anvendte",
+            "ChineseTranslation": "使用/应用",
+            "EnglishTranslation": "to use/apply"
+        },
+        { 
+            "text": "arbejde", 
+            "correctAnswer": "arbejdede",
+            "ChineseTranslation": "工作",
+            "EnglishTranslation": "to work"
+        },
+        { 
+            "text": "arrangere", 
+            "correctAnswer": "arrangerede",
+            "ChineseTranslation": "安排/组织",
+            "EnglishTranslation": "to arrange"
+        },
+        { 
+            "text": "arrestere", 
+            "correctAnswer": "arresterede",
+            "ChineseTranslation": "逮捕",
+            "EnglishTranslation": "to arrest"
+        },
+        { 
+            "text": "bage", 
+            "correctAnswer": "bagte",
+            "ChineseTranslation": "烘焙",
+            "EnglishTranslation": "to bake"
+        },
+        { 
+            "text": "banke", 
+            "correctAnswer": "bankede",
+            "ChineseTranslation": "敲打",
+            "EnglishTranslation": "to knock"
+        },
+        { 
+            "text": "bede", 
+            "correctAnswer": "bad",
+            "ChineseTranslation": "请求/祈求",
+            "EnglishTranslation": "to ask/pray"
+        }
+    ]
+},
+{"grammarPoint":"verbs",
+    "subCategory": "perfectTense",
+    "Title":"Danish-Verbs-Perfect Tense",
+    "exercises":[
+        { 
+            "text": "acceptere", 
+            "correctAnswer": "har accepteret",
+            "ChineseTranslation": "接受",
+            "EnglishTranslation": "to accept"
+        },
+        { 
+            "text": "adskille", 
+            "correctAnswer": "har adskilt",
+            "ChineseTranslation": "分离",
+            "EnglishTranslation": "to separate"
+        },
+        { 
+            "text": "advare", 
+            "correctAnswer": "har advaret",
+            "ChineseTranslation": "警告",
+            "EnglishTranslation": "to warn"
+        },
+        { 
+            "text": "afbryde", 
+            "correctAnswer": "har afbrudt",
+            "ChineseTranslation": "打断",
+            "EnglishTranslation": "to interrupt"
+        },
+        { 
+            "text": "afgive", 
+            "correctAnswer": "har afgivet",
+            "ChineseTranslation": "交付/提供",
+            "EnglishTranslation": "to deliver/provide"
+        },
+        { 
+            "text": "afgøre", 
+            "correctAnswer": "har afgjort",
+            "ChineseTranslation": "决定",
+            "EnglishTranslation": "to decide"
+        },
+        { 
+            "text": "aflevere", 
+            "correctAnswer": "har afleveret",
+            "ChineseTranslation": "交还/递交",
+            "EnglishTranslation": "to hand in/deliver"
+        },
+        { 
+            "text": "aflyse", 
+            "correctAnswer": "har aflyst",
+            "ChineseTranslation": "取消",
+            "EnglishTranslation": "to cancel"
+        },
+        { 
+            "text": "afløse", 
+            "correctAnswer": "har afløst",
+            "ChineseTranslation": "替代",
+            "EnglishTranslation": "to replace"
+        },
+        { 
+            "text": "afskaffe", 
+            "correctAnswer": "har afskaffet",
+            "ChineseTranslation": "废除",
+            "EnglishTranslation": "to abolish"
+        },
+        { 
+            "text": "afslutte", 
+            "correctAnswer": "har afsluttet",
+            "ChineseTranslation": "完成/结束",
+            "EnglishTranslation": "to finish/terminate"
+        },
+        { 
+            "text": "afvise", 
+            "correctAnswer": "har afvist",
+            "ChineseTranslation": "拒绝",
+            "EnglishTranslation": "to reject"
+        },
+        { 
+            "text": "anbefale", 
+            "correctAnswer": "har anbefalet",
+            "ChineseTranslation": "推荐",
+            "EnglishTranslation": "to recommend"
+        },
+        { 
+            "text": "anbringe", 
+            "correctAnswer": "har anbragt",
+            "ChineseTranslation": "安置/安装",
+            "EnglishTranslation": "to place/position"
+        },
+        { 
+            "text": "ane", 
+            "correctAnswer": "har anet",
+            "ChineseTranslation": "猜测/预感",
+            "EnglishTranslation": "to suspect/foresee"
+        },
+        { 
+            "text": "anerkende", 
+            "correctAnswer": "har anerkendt",
+            "ChineseTranslation": "承认",
+            "EnglishTranslation": "to acknowledge"
+        },
+        { 
+            "text": "angive", 
+            "correctAnswer": "har angivet",
+            "ChineseTranslation": "指示/举报",
+            "EnglishTranslation": "to indicate/report"
+        },
+        { 
+            "text": "angå", 
+            "correctAnswer": "har angået",
+            "ChineseTranslation": "涉及/关系到",
+            "EnglishTranslation": "to concern"
+        },
+        { 
+            "text": "anholde", 
+            "correctAnswer": "har anholdt",
+            "ChineseTranslation": "逮捕",
+            "EnglishTranslation": "to arrest"
+        },
+        { 
+            "text": "ankomme", 
+            "correctAnswer": "er ankommet",
+            "ChineseTranslation": "到达",
+            "EnglishTranslation": "to arrive"
+        },
+        { 
+            "text": "anmelde", 
+            "correctAnswer": "har anmeldt",
+            "ChineseTranslation": "报告/举报",
+            "EnglishTranslation": "to report"
+        },
+        { 
+            "text": "anse", 
+            "correctAnswer": "har anset",
+            "ChineseTranslation": "认为",
+            "EnglishTranslation": "to consider"
+        },
+        { 
+            "text": "ansætte", 
+            "correctAnswer": "har ansat",
+            "ChineseTranslation": "雇用",
+            "EnglishTranslation": "to hire/employ"
+        },
+        { 
+            "text": "anvende", 
+            "correctAnswer": "har anvendt",
+            "ChineseTranslation": "使用/应用",
+            "EnglishTranslation": "to use/apply"
+        },
+        { 
+            "text": "arbejde", 
+            "correctAnswer": "har arbejdet",
+            "ChineseTranslation": "工作",
+            "EnglishTranslation": "to work"
+        },
+        { 
+            "text": "arrangere", 
+            "correctAnswer": "har arrangeret",
+            "ChineseTranslation": "安排/组织",
+            "EnglishTranslation": "to arrange"
+        },
+        { 
+            "text": "arrestere", 
+            "correctAnswer": "har arresteret",
+            "ChineseTranslation": "逮捕",
+            "EnglishTranslation": "to arrest"
+        },
+        { 
+            "text": "bage", 
+            "correctAnswer": "har bagt",
+            "ChineseTranslation": "烘焙",
+            "EnglishTranslation": "to bake"
+        },
+        { 
+            "text": "banke", 
+            "correctAnswer": "har banket",
+            "ChineseTranslation": "敲打",
+            "EnglishTranslation": "to knock"
+        },
+        { 
+            "text": "bede", 
+            "correctAnswer": "har bedt",
+            "ChineseTranslation": "请求/祈求",
+            "EnglishTranslation": "to ask/pray"
+        }
+    ]
+},
+{"grammarPoint":"adjectives",
+        "subCategory": "adjectives",
+        "Title":"Danish-Adjectives",
+        
+        "exercises":[
+            {
+                "text": "Jeg har __ bog.",
+                "correctAnswer": "en stor",
+                "ChineseTranslation": "我有一本大书。",
+                "EnglishTranslation": "I have a big book."
+            },
+            {
+                "text": "Hun bor i __ hus.",
+                "correctAnswer": "et gammelt",
+                "ChineseTranslation": "她住在一座旧房子里。",
+                "EnglishTranslation": "She lives in an old house."
+            },
+            {
+                "text": "De har __ kat.",
+                "correctAnswer": "en sød",
+                "ChineseTranslation": "他们有一只可爱的猫。",
+                "EnglishTranslation": "They have a cute cat."
+            },
+            {
+                "text": "Vi skal besøge __ ven.",
+                "correctAnswer": "en god",
+                "ChineseTranslation": "我们要拜访一位好朋友。",
+                "EnglishTranslation": "We are going to visit a good friend."
+            },
+            {
+                "text": "Jeg har __ biler.",
+                "correctAnswer": "to blå",
+                "ChineseTranslation": "我有两辆蓝色的车。",
+                "EnglishTranslation": "I have two blue cars."
+            },
+            {
+                "text": "De bor i __ by.",
+                "correctAnswer": "en lille",
+                "ChineseTranslation": "他们住在一个小城市里。",
+                "EnglishTranslation": "They live in a small city."
+            },
+            {
+                "text": "Jeg så __ film i går.",
+                "correctAnswer": "en spændende",
+                "ChineseTranslation": "我昨天看了一部精彩的电影。",
+                "EnglishTranslation": "I saw an exciting movie yesterday."
+            },
+            {
+                "text": "Vi har __ bøger på hylden.",
+                "correctAnswer": "mange gamle",
+                "ChineseTranslation": "我们书架上有很多旧书。",
+                "EnglishTranslation": "We have many old books on the shelf."
+            },
+            {
+                "text": "De spiser __ mad.",
+                "correctAnswer": "god",
+                "ChineseTranslation": "他们吃的是好食物。",
+                "EnglishTranslation": "They eat good food."
+            },
+            {
+                "text": "Jeg har set __ mennesker i parken.",
+                "correctAnswer": "mange venlige",
+                "ChineseTranslation": "我在公园里看到很多友好的人。",
+                "EnglishTranslation": "I have seen many friendly people in the park."
+            },
+            {
+                "text": "Han købte __ jakke.",
+                "correctAnswer": "en dyr",
+                "ChineseTranslation": "他买了一件昂贵的夹克。",
+                "EnglishTranslation": "He bought an expensive jacket."
+            },
+            {
+                "text": "Jeg har __ problemer.",
+                "correctAnswer": "store økonomiske",
+                "ChineseTranslation": "我有很大的经济问题。",
+                "EnglishTranslation": "I have big financial problems."
+            },
+            {
+                "text": "De har __ børn.",
+                "correctAnswer": "to søde",
+                "ChineseTranslation": "他们有两个可爱的孩子。",
+                "EnglishTranslation": "They have two cute children."
+            },
+            {
+                "text": "Hun er __ person.",
+                "correctAnswer": "en venlig",
+                "ChineseTranslation": "她是一个友善的人。",
+                "EnglishTranslation": "She is a friendly person."
+            },
+            {
+                "text": "Han har __ arbejde.",
+                "correctAnswer": "et interessant",
+                "ChineseTranslation": "他有一份有趣的工作。",
+                "EnglishTranslation": "He has an interesting job."
+            },
+            {
+                "text": "Jeg kan lide __ musik.",
+                "correctAnswer": "god",
+                "ChineseTranslation": "我喜欢好音乐。",
+                "EnglishTranslation": "I like good music."
+            },
+            {
+                "text": "De har __ stole i stuen.",
+                "correctAnswer": "flere komfortable",
+                "ChineseTranslation": "他们客厅里有几把舒适的椅子。",
+                "EnglishTranslation": "They have several comfortable chairs in the living room."
+            },
+            {
+                "text": "Vi købte __ frugt i butikken.",
+                "correctAnswer": "meget frisk",
+                "ChineseTranslation": "我们在商店买了很多新鲜的水果。",
+                "EnglishTranslation": "We bought a lot of fresh fruit in the store."
+            },
+            {
+                "text": "Jeg har __ venner i byen.",
+                "correctAnswer": "mange gode",
+                "ChineseTranslation": "我在城市里有很多好朋友。",
+                "EnglishTranslation": "I have many good friends in the city."
+            },
+            {
+                "text": "Han har __ sko.",
+                "correctAnswer": "et par nye",
+                "ChineseTranslation": "他有一双新鞋。",
+                "EnglishTranslation": "He has a pair of new shoes."
+            },
+            {
+                "text": "Vi har __ bøger i biblioteket.",
+                "correctAnswer": "mange gamle",
+                "ChineseTranslation": "我们图书馆里有很多旧书。",
+                "EnglishTranslation": "We have many old books in the library."
+            },
+            {
+                "text": "Der er __ katte i haven.",
+                "correctAnswer": "to søde",
+                "ChineseTranslation": "花园里有两只可爱的猫。",
+                "EnglishTranslation": "There are two cute cats in the garden."
+            },
+            {
+                "text": "Hun har __ oplevelse.",
+                "correctAnswer": "en fantastisk",
+                "ChineseTranslation": "她有一次棒极了的经历。",
+                "EnglishTranslation": "She has an amazing experience."
+            },
+            {
+                "text": "De har __ problemer med deres bil.",
+                "correctAnswer": "store tekniske",
+                "ChineseTranslation": "他们的车有很大的技术问题。",
+                "EnglishTranslation": "They have big technical problems with their car."
+            }
+        ]
+    }
+]
+
+}
+
+        
+
+        
+
+
+    
+    

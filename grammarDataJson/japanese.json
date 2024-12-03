@@ -1,0 +1,1172 @@
+{
+    "language": "japanese",
+        "grammarPoints":[
+        {    
+        "grammarPoint":"verbs",
+        "subCategory": "teForm",
+        "Title":"Japanese-Verbs- Te-Form",
+        "exercises":[
+            {
+                "text": "食べる",
+                "correctAnswer": "食べて",
+                "correctAnswer2": "たべて",
+                "ChineseTranslation": "吃",
+                "EnglishTranslation": "to eat"
+            },
+            {
+                "text": "見る",
+                "correctAnswer": "見て",
+                "correctAnswer2": "みて",
+                "ChineseTranslation": "看",
+                "EnglishTranslation": "to see"
+            },
+            {
+                "text": "行く",
+                "correctAnswer": "行って",
+                "correctAnswer2": "いって",
+                "ChineseTranslation": "去",
+                "EnglishTranslation": "to go"
+            },
+            {
+                "text": "書く",
+                "correctAnswer": "書いて",
+                "correctAnswer2": "かいて",
+                "ChineseTranslation": "写",
+                "EnglishTranslation": "to write"
+            },
+            {
+                "text": "話す",
+                "correctAnswer": "話して",
+                "correctAnswer2": "はなして",
+                "ChineseTranslation": "说",
+                "EnglishTranslation": "to speak"
+            },
+            {
+                "text": "飲む",
+                "correctAnswer": "飲んで",
+                "correctAnswer2": "のんで",
+                "ChineseTranslation": "喝",
+                "EnglishTranslation": "to drink"
+            },
+            {
+                "text": "待つ",
+                "correctAnswer": "待って",
+                "correctAnswer2": "まって",
+                "ChineseTranslation": "等",
+                "EnglishTranslation": "to wait"
+            },
+            {
+                "text": "歩く",
+                "correctAnswer": "歩いて",
+                "correctAnswer2": "あるいて",
+                "ChineseTranslation": "走",
+                "EnglishTranslation": "to walk"
+            },
+            {
+                "text": "来る",
+                "correctAnswer": "来て",
+                "correctAnswer2": "きて",
+                "ChineseTranslation": "来",
+                "EnglishTranslation": "to come"
+            },
+            {
+                "text": "聞く",
+                "correctAnswer": "聞いて",
+                "correctAnswer2": "きいて",
+                "ChineseTranslation": "听",
+                "EnglishTranslation": "to ask, to listen"
+            },
+            {
+                "text": "遊ぶ",
+                "correctAnswer": "遊んで",
+                "correctAnswer2": "あそんで",
+                "ChineseTranslation": "玩",
+                "EnglishTranslation": "to play"
+            },
+            {
+                "text": "寝る",
+                "correctAnswer": "寝て",
+                "correctAnswer2": "ねて",
+                "ChineseTranslation": "睡觉",
+                "EnglishTranslation": "to sleep"
+            },
+            {
+                "text": "作る",
+                "correctAnswer": "作って",
+                "correctAnswer2": "つくって",
+                "ChineseTranslation": "做",
+                "EnglishTranslation": "to make"
+            },
+            {
+                "text": "出る",
+                "correctAnswer": "出て",
+                "correctAnswer2": "でて",
+                "ChineseTranslation": "出去",
+                "EnglishTranslation": "to leave"
+            },
+            {
+                "text": "買う",
+                "correctAnswer": "買って",
+                "correctAnswer2": "かって",
+                "ChineseTranslation": "买",
+                "EnglishTranslation": "to buy"
+            },
+            {
+                "text": "使う",
+                "correctAnswer": "使って",
+                "correctAnswer2": "つかって",
+                "ChineseTranslation": "使用",
+                "EnglishTranslation": "to use"
+            },
+            {
+                "text": "勉強する",
+                "correctAnswer": "勉強して",
+                "correctAnswer2": "べんきょうして",
+                "ChineseTranslation": "学习",
+                "EnglishTranslation": "to study"
+            },
+            {
+                "text": "結婚する",
+                "correctAnswer": "結婚して",
+                "correctAnswer2": "けっこんして",
+                "ChineseTranslation": "结婚",
+                "EnglishTranslation": "to get married"
+            },
+            {
+                "text": "帰る",
+                "correctAnswer": "帰って",
+                "correctAnswer2": "かえって",
+                "ChineseTranslation": "回家",
+                "EnglishTranslation": "to return home"
+            },
+            {
+                "text": "知る",
+                "correctAnswer": "知って",
+                "correctAnswer2": "しって",
+                "ChineseTranslation": "知道",
+                "EnglishTranslation": "to know"
+            }
+        ]
+    },
+    {    
+        "grammarPoint":"verbs",
+        "subCategory": "masuForm",
+        "Title":"Japanese-Verbs- Masu-Form",
+        "exercises":[
+            {
+                "text": "食べる",
+                "correctAnswer": "食べます",
+                "correctAnswer2": "たべます",
+                "ChineseTranslation": "吃",
+                "EnglishTranslation": "to eat"
+            },
+            {
+                "text": "見る",
+                "correctAnswer": "見ます",
+                "correctAnswer2": "みます",
+                "ChineseTranslation": "看",
+                "EnglishTranslation": "to see"
+            },
+            {
+                "text": "行く",
+                "correctAnswer": "行きます",
+                "correctAnswer2": "いきます",
+                "ChineseTranslation": "去",
+                "EnglishTranslation": "to go"
+            },
+            {
+                "text": "書く",
+                "correctAnswer": "書きます",
+                "correctAnswer2": "かきます",
+                "ChineseTranslation": "写",
+                "EnglishTranslation": "to write"
+            },
+            {
+                "text": "話す",
+                "correctAnswer": "話します",
+                "correctAnswer2": "はなします",
+                "ChineseTranslation": "说",
+                "EnglishTranslation": "to speak"
+            },
+            {
+                "text": "飲む",
+                "correctAnswer": "飲みます",
+                "correctAnswer2": "のみます",
+                "ChineseTranslation": "喝",
+                "EnglishTranslation": "to drink"
+            },
+            {
+                "text": "待つ",
+                "correctAnswer": "待ちます",
+                "correctAnswer2": "まちます",
+                "ChineseTranslation": "等",
+                "EnglishTranslation": "to wait"
+            },
+            {
+                "text": "歩く",
+                "correctAnswer": "歩きます",
+                "correctAnswer2": "あるきます",
+                "ChineseTranslation": "走",
+                "EnglishTranslation": "to walk"
+            },
+            {
+                "text": "来る",
+                "correctAnswer": "来ます",
+                "correctAnswer2": "きます",
+                "ChineseTranslation": "来",
+                "EnglishTranslation": "to come"
+            },
+            {
+                "text": "聞く",
+                "correctAnswer": "聞きます",
+                "correctAnswer2": "ききます",
+                "ChineseTranslation": "听",
+                "EnglishTranslation": "to ask, to listen"
+            },
+            {
+                "text": "遊ぶ",
+                "correctAnswer": "遊びます",
+                "correctAnswer2": "あそびます",
+                "ChineseTranslation": "玩",
+                "EnglishTranslation": "to play"
+            },
+            {
+                "text": "寝る",
+                "correctAnswer": "寝ます",
+                "correctAnswer2": "ねます",
+                "ChineseTranslation": "睡觉",
+                "EnglishTranslation": "to sleep"
+            },
+            {
+                "text": "作る",
+                "correctAnswer": "作ります",
+                "correctAnswer2": "つくります",
+                "ChineseTranslation": "做",
+                "EnglishTranslation": "to make"
+            },
+            {
+                "text": "出る",
+                "correctAnswer": "出ます",
+                "correctAnswer2": "でます",
+                "ChineseTranslation": "出去",
+                "EnglishTranslation": "to leave"
+            },
+            {
+                "text": "買う",
+                "correctAnswer": "買います",
+                "correctAnswer2": "かいます",
+                "ChineseTranslation": "买",
+                "EnglishTranslation": "to buy"
+            },
+            {
+                "text": "使う",
+                "correctAnswer": "使います",
+                "correctAnswer2": "つかいます",
+                "ChineseTranslation": "使用",
+                "EnglishTranslation": "to use"
+            },
+            {
+                "text": "勉強する",
+                "correctAnswer": "勉強します",
+                "correctAnswer2": "べんきょうします",
+                "ChineseTranslation": "学习",
+                "EnglishTranslation": "to study"
+            },
+            {
+                "text": "結婚する",
+                "correctAnswer": "結婚します",
+                "correctAnswer2": "けっこんします",
+                "ChineseTranslation": "结婚",
+                "EnglishTranslation": "to get married"
+            },
+            {
+                "text": "帰る",
+                "correctAnswer": "帰ります",
+                "correctAnswer2": "かえります",
+                "ChineseTranslation": "回家",
+                "EnglishTranslation": "to return home"
+            },
+            {
+                "text": "知る",
+                "correctAnswer": "知ります",
+                "correctAnswer2": "しります",
+                "ChineseTranslation": "知道",
+                "EnglishTranslation": "to know"
+            }
+        ]
+        
+
+    },
+    {    
+        "grammarPoint":"verbs",
+        "subCategory": "pastTense",
+        "Title":"Japanese-Verbs-Past Tense",
+        "exercises":[
+            {
+                "text": "食べる",
+                "correctAnswer": "食べた",
+                "correctAnswer2": "たべた",
+                "ChineseTranslation": "吃了",
+                "EnglishTranslation": "ate"
+            },
+            {
+                "text": "見る",
+                "correctAnswer": "見た",
+                "correctAnswer2": "みた",
+                "ChineseTranslation": "看了",
+                "EnglishTranslation": "saw"
+            },
+            {
+                "text": "行く",
+                "correctAnswer": "行った",
+                "correctAnswer2": "いった",
+                "ChineseTranslation": "去了",
+                "EnglishTranslation": "went"
+            },
+            {
+                "text": "書く",
+                "correctAnswer": "書いた",
+                "correctAnswer2": "かいた",
+                "ChineseTranslation": "写了",
+                "EnglishTranslation": "wrote"
+            },
+            {
+                "text": "話す",
+                "correctAnswer": "話した",
+                "correctAnswer2": "はなした",
+                "ChineseTranslation": "说了",
+                "EnglishTranslation": "spoke"
+            },
+            {
+                "text": "飲む",
+                "correctAnswer": "飲んだ",
+                "correctAnswer2": "のんだ",
+                "ChineseTranslation": "喝了",
+                "EnglishTranslation": "drank"
+            },
+            {
+                "text": "待つ",
+                "correctAnswer": "待った",
+                "correctAnswer2": "まった",
+                "ChineseTranslation": "等了",
+                "EnglishTranslation": "waited"
+            },
+            {
+                "text": "歩く",
+                "correctAnswer": "歩いた",
+                "correctAnswer2": "あるいた",
+                "ChineseTranslation": "走了",
+                "EnglishTranslation": "walked"
+            },
+            {
+                "text": "来る",
+                "correctAnswer": "来た",
+                "correctAnswer2": "きた",
+                "ChineseTranslation": "来了",
+                "EnglishTranslation": "came"
+            },
+            {
+                "text": "聞く",
+                "correctAnswer": "聞いた",
+                "correctAnswer2": "きいた",
+                "ChineseTranslation": "听了",
+                "EnglishTranslation": "heard"
+            },
+            {
+                "text": "遊ぶ",
+                "correctAnswer": "遊んだ",
+                "correctAnswer2": "あそんだ",
+                "ChineseTranslation": "玩了",
+                "EnglishTranslation": "played"
+            },
+            {
+                "text": "寝る",
+                "correctAnswer": "寝た",
+                "correctAnswer2": "ねた",
+                "ChineseTranslation": "睡觉了",
+                "EnglishTranslation": "slept"
+            },
+            {
+                "text": "作る",
+                "correctAnswer": "作った",
+                "correctAnswer2": "つくった",
+                "ChineseTranslation": "做了",
+                "EnglishTranslation": "made"
+            },
+            {
+                "text": "出る",
+                "correctAnswer": "出た",
+                "correctAnswer2": "でた",
+                "ChineseTranslation": "出了",
+                "EnglishTranslation": "left"
+            },
+            {
+                "text": "買う",
+                "correctAnswer": "買った",
+                "correctAnswer2": "かった",
+                "ChineseTranslation": "买了",
+                "EnglishTranslation": "bought"
+            },
+            {
+                "text": "使う",
+                "correctAnswer": "使った",
+                "correctAnswer2": "つかった",
+                "ChineseTranslation": "用了",
+                "EnglishTranslation": "used"
+            },
+            {
+                "text": "勉強する",
+                "correctAnswer": "勉強した",
+                "correctAnswer2": "べんきょうした",
+                "ChineseTranslation": "学习了",
+                "EnglishTranslation": "studied"
+            },
+            {
+                "text": "結婚する",
+                "correctAnswer": "結婚した",
+                "correctAnswer2": "けっこんした",
+                "ChineseTranslation": "结婚了",
+                "EnglishTranslation": "got married"
+            },
+            {
+                "text": "帰る",
+                "correctAnswer": "帰った",
+                "correctAnswer2": "かえった",
+                "ChineseTranslation": "回家了",
+                "EnglishTranslation": "returned home"
+            },
+            {
+                "text": "知る",
+                "correctAnswer": "知った",
+                "correctAnswer2": "しった",
+                "ChineseTranslation": "知道了",
+                "EnglishTranslation": "knew"
+            }
+        ]
+        },
+        {
+        "grammarPoint":"verbs",
+        "subCategory": "negativeForm",
+        "Title":"Japanese-Verbs-Negative Form",
+        "exercises":[
+            {
+                "text": "食べる",
+                "correctAnswer": "食べない",
+                "correctAnswer2": "たべない",
+                "ChineseTranslation": "不吃",
+                "EnglishTranslation": "do not eat"
+            },
+            {
+                "text": "見る",
+                "correctAnswer": "見ない",
+                "correctAnswer2": "みない",
+                "ChineseTranslation": "不看",
+                "EnglishTranslation": "do not see"
+            },
+            {
+                "text": "行く",
+                "correctAnswer": "行かない",
+                "correctAnswer2": "いかない",
+                "ChineseTranslation": "不去",
+                "EnglishTranslation": "do not go"
+            },
+            {
+                "text": "書く",
+                "correctAnswer": "書かない",
+                "correctAnswer2": "かかない",
+                "ChineseTranslation": "不写",
+                "EnglishTranslation": "do not write"
+            },
+            {
+                "text": "話す",
+                "correctAnswer": "話さない",
+                "correctAnswer2": "はなさない",
+                "ChineseTranslation": "不说",
+                "EnglishTranslation": "do not speak"
+            },
+            {
+                "text": "飲む",
+                "correctAnswer": "飲まない",
+                "correctAnswer2": "のまない",
+                "ChineseTranslation": "不喝",
+                "EnglishTranslation": "do not drink"
+            },
+            {
+                "text": "待つ",
+                "correctAnswer": "待たない",
+                "correctAnswer2": "またない",
+                "ChineseTranslation": "不等",
+                "EnglishTranslation": "do not wait"
+            },
+            {
+                "text": "歩く",
+                "correctAnswer": "歩かない",
+                "correctAnswer2": "あるかない",
+                "ChineseTranslation": "不走",
+                "EnglishTranslation": "do not walk"
+            },
+            {
+                "text": "来る",
+                "correctAnswer": "来ない",
+                "correctAnswer2": "こない",
+                "ChineseTranslation": "不来",
+                "EnglishTranslation": "do not come"
+            },
+            {
+                "text": "聞く",
+                "correctAnswer": "聞かない",
+                "correctAnswer2": "きかない",
+                "ChineseTranslation": "不听",
+                "EnglishTranslation": "do not ask, do not listen"
+            },
+            {
+                "text": "遊ぶ",
+                "correctAnswer": "遊ばない",
+                "correctAnswer2": "あそばない",
+                "ChineseTranslation": "不玩",
+                "EnglishTranslation": "do not play"
+            },
+            {
+                "text": "寝る",
+                "correctAnswer": "寝ない",
+                "correctAnswer2": "ねない",
+                "ChineseTranslation": "不睡觉",
+                "EnglishTranslation": "do not sleep"
+            },
+            {
+                "text": "作る",
+                "correctAnswer": "作らない",
+                "correctAnswer2": "つくらない",
+                "ChineseTranslation": "不做",
+                "EnglishTranslation": "do not make"
+            },
+            {
+                "text": "出る",
+                "correctAnswer": "出ない",
+                "correctAnswer2": "でない",
+                "ChineseTranslation": "不出去",
+                "EnglishTranslation": "do not leave"
+            },
+            {
+                "text": "買う",
+                "correctAnswer": "買わない",
+                "correctAnswer2": "かわない",
+                "ChineseTranslation": "不买",
+                "EnglishTranslation": "do not buy"
+            },
+            {
+                "text": "使う",
+                "correctAnswer": "使わない",
+                "correctAnswer2": "つかわない",
+                "ChineseTranslation": "不使用",
+                "EnglishTranslation": "do not use"
+            },
+            {
+                "text": "勉強する",
+                "correctAnswer": "勉強しない",
+                "correctAnswer2": "べんきょうしない",
+                "ChineseTranslation": "不学习",
+                "EnglishTranslation": "do not study"
+            },
+            {
+                "text": "結婚する",
+                "correctAnswer": "結婚しない",
+                "correctAnswer2": "けっこんしない",
+                "ChineseTranslation": "不结婚",
+                "EnglishTranslation": "do not get married"
+            },
+            {
+                "text": "帰る",
+                "correctAnswer": "帰らない",
+                "correctAnswer2": "かえらない",
+                "ChineseTranslation": "不回家",
+                "EnglishTranslation": "do not return home"
+            },
+            {
+                "text": "知る",
+                "correctAnswer": "知らない",
+                "correctAnswer2": "しらない",
+                "ChineseTranslation": "不知道",
+                "EnglishTranslation": "do not know"
+            }
+        ]
+        
+        },
+        {"grammarPoint":"adjectives",
+        "subCategory": "iAdjectives",
+        "Title":"Japanese-Adjectives- I-Form",
+        "exercises":[
+                {
+                    "text": "このビルは __ です。",
+                    "correctAnswer": "高い",
+                    "correctAnswer2": "たかい",
+                    "ChineseTranslation": "这座大楼很高。",
+                    "EnglishTranslation": "This building is tall."
+                },
+                {
+                    "text": "その店は __ です。",
+                    "correctAnswer": "高くない",
+                    "correctAnswer2": "たかくない",
+                    "ChineseTranslation": "那家店不贵。",
+                    "EnglishTranslation": "That shop is not expensive."
+                },
+                {
+                    "text": "彼の家は去年 __ です。",
+                    "correctAnswer": "高かった",
+                    "correctAnswer2": "たかかった",
+                    "ChineseTranslation": "他家的房子去年很高。",
+                    "EnglishTranslation": "His house was tall last year."
+                },
+                {
+                    "text": "私たちの学校は去年 __ です。",
+                    "correctAnswer": "高くなかった",
+                    "correctAnswer2": "たかくなかった",
+                    "ChineseTranslation": "我们的学校去年不高。",
+                    "EnglishTranslation": "Our school was not tall last year."
+                },
+                {
+                    "text": "このレストランは __ です。",
+                    "correctAnswer": "おいしい",
+                    "correctAnswer2": "おいしい",
+                    "ChineseTranslation": "这家餐厅很好吃。",
+                    "EnglishTranslation": "This restaurant is delicious."
+                },
+                {
+                    "text": "このジュースは __ です。",
+                    "correctAnswer": "おいしくない",
+                    "correctAnswer2": "おいしくない",
+                    "ChineseTranslation": "这个果汁不好喝。",
+                    "EnglishTranslation": "This juice is not tasty."
+                },
+                {
+                    "text": "昨日食べたラーメンは __ です。",
+                    "correctAnswer": "おいしかった",
+                    "correctAnswer2": "おいしかった",
+                    "ChineseTranslation": "昨天吃的拉面很好吃。",
+                    "EnglishTranslation": "The ramen I ate yesterday was delicious."
+                },
+                {
+                    "text": "あのケーキは昨日 __ です。",
+                    "correctAnswer": "おいしくなかった",
+                    "correctAnswer2": "おいしくなかった",
+                    "ChineseTranslation": "那个蛋糕昨天不好吃。",
+                    "EnglishTranslation": "That cake was not tasty yesterday."
+                },
+                {
+                    "text": "このパソコンは __ です。",
+                    "correctAnswer": "新しい",
+                    "correctAnswer2": "あたらしい",
+                    "ChineseTranslation": "这台电脑是新的。",
+                    "EnglishTranslation": "This computer is new."
+                },
+                {
+                    "text": "その椅子は __ です。",
+                    "correctAnswer": "新しくない",
+                    "correctAnswer2": "あたらしくない",
+                    "ChineseTranslation": "那把椅子不是新的。",
+                    "EnglishTranslation": "That chair is not new."
+                },
+                {
+                    "text": "彼の車は去年 __ です。",
+                    "correctAnswer": "新しかった",
+                    "correctAnswer2": "あたらしかった",
+                    "ChineseTranslation": "他的车去年是新的。",
+                    "EnglishTranslation": "His car was new last year."
+                },
+                {
+                    "text": "私たちの部屋は去年 __ です。",
+                    "correctAnswer": "新しくなかった",
+                    "correctAnswer2": "あたらしくなかった",
+                    "ChineseTranslation": "我们的房间去年不是新的。",
+                    "EnglishTranslation": "Our room was not new last year."
+                },
+                {
+                    "text": "この遊園地は __ です。",
+                    "correctAnswer": "楽しい",
+                    "correctAnswer2": "たのしい",
+                    "ChineseTranslation": "这个游乐园很有趣。",
+                    "EnglishTranslation": "This amusement park is fun."
+                },
+                {
+                    "text": "そのテレビ番組は __ です。",
+                    "correctAnswer": "楽しくない",
+                    "correctAnswer2": "たのしくない",
+                    "ChineseTranslation": "那个电视节目不好看。",
+                    "EnglishTranslation": "That TV show is not fun."
+                },
+                {
+                    "text": "先週行った映画館は __ です。",
+                    "correctAnswer": "楽しかった",
+                    "correctAnswer2": "たのしかった",
+                    "ChineseTranslation": "上周去的电影院很有趣。",
+                    "EnglishTranslation": "The cinema I went to last week was fun."
+                },
+                {
+                    "text": "昨日の授業は __ です。",
+                    "correctAnswer": "楽しくなかった",
+                    "correctAnswer2": "たのしくなかった",
+                    "ChineseTranslation": "昨天的课程不好玩。",
+                    "EnglishTranslation": "Yesterday's class was not fun."
+                },
+                {
+                    "text": "このお店の服は __ です。",
+                    "correctAnswer": "安い",
+                    "correctAnswer2": "やすい",
+                    "ChineseTranslation": "这家店的衣服很便宜。",
+                    "EnglishTranslation": "The clothes in this shop are cheap."
+                },
+                {
+                    "text": "そのカバンは __ です。",
+                    "correctAnswer": "安くない",
+                    "correctAnswer2": "やすくない",
+                    "ChineseTranslation": "那个包包不便宜。",
+                    "EnglishTranslation": "That bag is not cheap."
+                },
+                {
+                    "text": "先週買った靴は __ です。",
+                    "correctAnswer": "安かった",
+                    "correctAnswer2": "やすかった",
+                    "ChineseTranslation": "上周买的鞋子很便宜。",
+                    "EnglishTranslation": "The shoes I bought last week were cheap."
+                },
+                {
+                    "text": "昨日買ったシャツは __ です。",
+                    "correctAnswer": "安くなかった",
+                    "correctAnswer2": "やすくなかった",
+                    "ChineseTranslation": "昨天买的衬衫不便宜。",
+                    "EnglishTranslation": "The shirt I bought yesterday was not cheap."
+                },
+                {
+                    "text": "この問題は __ です。",
+                    "correctAnswer": "難しい",
+                    "correctAnswer2": "むずかしい",
+                    "ChineseTranslation": "这个问题很难。",
+                    "EnglishTranslation": "This question is difficult."
+                },
+                {
+                    "text": "その問題は __ です。",
+                    "correctAnswer": "難しくない",
+                    "correctAnswer2": "むずかしくない",
+                    "ChineseTranslation": "那个问题不难。",
+                    "EnglishTranslation": "That question is not difficult."
+                },
+                {
+                    "text": "先週解いた数学の問題は __ です。",
+                    "correctAnswer": "難しかった",
+                    "correctAnswer2": "むずかしかった",
+                    "ChineseTranslation": "上周做的数学题很难。",
+                    "EnglishTranslation": "The math question I solved last week was difficult."
+                },
+                {
+                    "text": "昨日解いた英語の問題は __ です。",
+                    "correctAnswer": "難しくなかった",
+                    "correctAnswer2": "むずかしくなかった",
+                    "ChineseTranslation": "昨天做的英语题不难。",
+                    "EnglishTranslation": "The English question I solved yesterday was not difficult."
+                },
+                {
+                    "text": "この電車は __ です。",
+                    "correctAnswer": "遅い",
+                    "correctAnswer2": "おそい",
+                    "ChineseTranslation": "这列电车很慢。",
+                    "EnglishTranslation": "This train is slow."
+                },
+                {
+                    "text": "そのバスは __ です。",
+                    "correctAnswer": "遅くない",
+                    "correctAnswer2": "おそくない",
+                    "ChineseTranslation": "那辆巴士不慢。",
+                    "EnglishTranslation": "That bus is not slow."
+                },
+                {
+                    "text": "昨日乗った電車は __ です。",
+                    "correctAnswer": "遅かった",
+                    "correctAnswer2": "おそかった",
+                    "ChineseTranslation": "昨天坐的电车很慢。",
+                    "EnglishTranslation": "The train I took yesterday was slow."
+                },
+                {
+                    "text": "先週乗ったバスは __ です。",
+                    "correctAnswer": "遅くなかった",
+                    "correctAnswer2": "おそくなかった",
+                    "ChineseTranslation": "上周坐的巴士不慢。",
+                    "EnglishTranslation": "The bus I took last week was not slow."
+                },
+                {
+                    "text": "この公園は __ です。",
+                    "correctAnswer": "きれい",
+                    "correctAnswer2": "きれい",
+                    "ChineseTranslation": "这个公园很漂亮。",
+                    "EnglishTranslation": "This park is beautiful."
+                },
+                {
+                    "text": "その部屋は __ です。",
+                    "correctAnswer": "きれいじゃない",
+                    "correctAnswer2": "きれいじゃない",
+                    "ChineseTranslation": "那个房间不干净。",
+                    "EnglishTranslation": "That room is not clean."
+                },
+                {
+                    "text": "昨日掃除した部屋は __ です。",
+                    "correctAnswer": "きれいでした",
+                    "correctAnswer2": "きれいでした",
+                    "ChineseTranslation": "昨天打扫的房间很干净。",
+                    "EnglishTranslation": "The room cleaned yesterday was clean."
+                },
+                {
+                    "text": "先週掃除したオフィスは __ です。",
+                    "correctAnswer": "きれいじゃなかった",
+                    "correctAnswer2": "きれいじゃなかった",
+                    "ChineseTranslation": "上周打扫的办公室不干净。",
+                    "EnglishTranslation": "The office cleaned last week was not clean."
+                },
+                {
+                    "text": "今日の天気は __ です。",
+                    "correctAnswer": "暑い",
+                    "correctAnswer2": "あつい",
+                    "ChineseTranslation": "今天的天气很热。",
+                    "EnglishTranslation": "Today's weather is hot."
+                },
+                {
+                    "text": "この部屋は __ です。",
+                    "correctAnswer": "暑くない",
+                    "correctAnswer2": "あつくない",
+                    "ChineseTranslation": "这个房间不热。",
+                    "EnglishTranslation": "This room is not hot."
+                },
+                {
+                    "text": "先週の昼間は __ です。",
+                    "correctAnswer": "暑かった",
+                    "correctAnswer2": "あつかった",
+                    "ChineseTranslation": "上周的午后很热。",
+                    "EnglishTranslation": "Last week's afternoon was hot."
+                },
+                {
+                    "text": "昨日の夜は __ です。",
+                    "correctAnswer": "暑くなかった",
+                    "correctAnswer2": "あつくなかった",
+                    "ChineseTranslation": "昨天晚上不热。",
+                    "EnglishTranslation": "Last night was not hot."
+                },
+                {
+                    "text": "この映画は __ です。",
+                    "correctAnswer": "面白い",
+                    "correctAnswer2": "おもしろい",
+                    "ChineseTranslation": "这部电影很有趣。",
+                    "EnglishTranslation": "This movie is interesting."
+                },
+                {
+                    "text": "その本は __ です。",
+                    "correctAnswer": "面白くない",
+                    "correctAnswer2": "おもしろくない",
+                    "ChineseTranslation": "那本书不好看。",
+                    "EnglishTranslation": "That book is not interesting."
+                },
+                {
+                    "text": "先週見た映画は __ です。",
+                    "correctAnswer": "面白かった",
+                    "correctAnswer2": "おもしろかった",
+                    "ChineseTranslation": "上周看的电影很有趣。",
+                    "EnglishTranslation": "The movie I watched last week was interesting."
+                },
+                {
+                    "text": "昨日読んだ本は __ です。",
+                    "correctAnswer": "面白くなかった",
+                    "correctAnswer2": "おもしろくなかった",
+                    "ChineseTranslation": "昨天读的书不好看。",
+                    "EnglishTranslation": "The book I read yesterday was not interesting."
+                },
+                {
+                    "text": "この電車は __ です。",
+                    "correctAnswer": "早い",
+                    "correctAnswer2": "はやい",
+                    "ChineseTranslation": "这列电车很快。",
+                    "EnglishTranslation": "This train is fast."
+                },
+                {
+                    "text": "そのバスは __ です。",
+                    "correctAnswer": "早くない",
+                    "correctAnswer2": "はやくない",
+                    "ChineseTranslation": "那辆巴士不快。",
+                    "EnglishTranslation": "That bus is not fast."
+                },
+                {
+                    "text": "昨日乗った電車は __ です。",
+                    "correctAnswer": "早かった",
+                    "correctAnswer2": "はやかった",
+                    "ChineseTranslation": "昨天坐的电车很快。",
+                    "EnglishTranslation": "The train I took yesterday was fast."
+                },
+                {
+                    "text": "先週乗ったバスは __ です。",
+                    "correctAnswer": "早くなかった",
+                    "correctAnswer2": "はやくなかった",
+                    "ChineseTranslation": "上周坐的巴士不快。",
+                    "EnglishTranslation": "The bus I took last week was not fast."
+                },
+                {
+                    "text": "この仕事は __ です。",
+                    "correctAnswer": "面倒くさい",
+                    "correctAnswer2": "めんどうくさい",
+                    "ChineseTranslation": "这项工作很麻烦。",
+                    "EnglishTranslation": "This work is troublesome."
+                },
+                {
+                    "text": "その作業は __ です。",
+                    "correctAnswer": "面倒くさくない",
+                    "correctAnswer2": "めんどうくさくない",
+                    "ChineseTranslation": "那个任务不麻烦。",
+                    "EnglishTranslation": "That task is not troublesome."
+                },
+                {
+                    "text": "昨日やった作業は __ です。",
+                    "correctAnswer": "面倒くさかった",
+                    "correctAnswer2": "めんどうくさかった",
+                    "ChineseTranslation": "昨天做的任务很麻烦。",
+                    "EnglishTranslation": "The task I did yesterday was troublesome."
+                },
+                {
+                    "text": "先週やったプロジェクトは __ です。",
+                    "correctAnswer": "面倒くさくなかった",
+                    "correctAnswer2": "めんどうくさくなかった",
+                    "ChineseTranslation": "上周做的项目不麻烦。",
+                    "EnglishTranslation": "The project I did last week was not troublesome."
+                },
+                {
+                    "text": "この駅は __ です。",
+                    "correctAnswer": "遠い",
+                    "correctAnswer2": "とおい",
+                    "ChineseTranslation": "这个车站很远。",
+                    "EnglishTranslation": "This station is far."
+                },
+                {
+                    "text": "その町は __ です。",
+                    "correctAnswer": "遠くない",
+                    "correctAnswer2": "とおくない",
+                    "ChineseTranslation": "那个城市不远。",
+                    "EnglishTranslation": "That city is not far."
+                },
+                {
+                    "text": "昨日行った場所は __ です。",
+                    "correctAnswer": "遠かった",
+                    "correctAnswer2": "とおかった",
+                    "ChineseTranslation": "昨天去的地方很远。",
+                    "EnglishTranslation": "The place I went to yesterday was far."
+                },
+                {
+                    "text": "先週行った観光地は __ です。",
+                    "correctAnswer": "遠くなかった",
+                    "correctAnswer2": "とおくなかった",
+                    "ChineseTranslation": "上周去的景点不远。",
+                    "EnglishTranslation": "The tourist spot I went to last week was not far."
+                },
+                {
+                    "text": "この先生は __ です。",
+                    "correctAnswer": "やさしい",
+                    "correctAnswer2": "やさしい",
+                    "ChineseTranslation": "这位老师很温柔。",
+                    "EnglishTranslation": "This teacher is kind."
+                },
+                {
+                    "text": "その子供は __ です。",
+                    "correctAnswer": "やさしくない",
+                    "correctAnswer2": "やさしくない",
+                    "ChineseTranslation": "那个孩子不温柔。",
+                    "EnglishTranslation": "That child is not kind."
+                },
+                {
+                    "text": "昨日会った友達は __ です。",
+                    "correctAnswer": "やさしかった",
+                    "correctAnswer2": "やさしかった",
+                    "ChineseTranslation": "昨天遇到的朋友很温柔。",
+                    "EnglishTranslation": "The friend I met yesterday was kind."
+                },
+                {
+                    "text": "先週会った先生は __ です。",
+                    "correctAnswer": "やさしくなかった",
+                    "correctAnswer2": "やさしくなかった",
+                    "ChineseTranslation": "上周遇到的老师不温柔。",
+                    "EnglishTranslation": "The teacher I met last week was not kind."
+                },
+                {
+                    "text": "彼は __ です。",
+                    "correctAnswer": "強い",
+                    "correctAnswer2": "つよい",
+                    "ChineseTranslation": "他很强。",
+                    "EnglishTranslation": "He is strong."
+                },
+                {
+                    "text": "彼女は __ です。",
+                    "correctAnswer": "強くない",
+                    "correctAnswer2": "つよくない",
+                    "ChineseTranslation": "她不强。",
+                    "EnglishTranslation": "She is not strong."
+                },
+                {
+                    "text": "昨日練習した彼は __ です。",
+                    "correctAnswer": "強かった",
+                    "correctAnswer2": "つよかった",
+                    "ChineseTranslation": "昨天练习的他很强。",
+                    "EnglishTranslation": "He was strong in practice yesterday."
+                },
+                {
+                    "text": "先週練習したチームは __ です。",
+                    "correctAnswer": "強くなかった",
+                    "correctAnswer2": "つよくなかった",
+                    "ChineseTranslation": "上周练习的队伍不强。",
+                    "EnglishTranslation": "The team that practiced last week was not strong."
+                }
+            ]
+        },
+        {"grammarPoint":"adjectives",
+        "subCategory": "naAdjectives",
+        "Title":"Japanese-Adjectives- Na-Form",
+        "exercises":[
+            {
+                "text": "彼は __ です。",
+                "correctAnswer": "優しい",
+                "correctAnswer2": "やさしい",
+                "ChineseTranslation": "他很温柔。",
+                "EnglishTranslation": "He is kind."
+            },
+            {
+                "text": "彼女は __ です。",
+                "correctAnswer": "優しくない",
+                "correctAnswer2": "やさしくない",
+                "ChineseTranslation": "她不温柔。",
+                "EnglishTranslation": "She is not kind."
+            },
+            {
+                "text": "昨日練習した彼は __ です。",
+                "correctAnswer": "優しかった",
+                "correctAnswer2": "やさしかった",
+                "ChineseTranslation": "昨天练习的他很温柔。",
+                "EnglishTranslation": "He was kind in practice yesterday."
+            },
+            {
+                "text": "先週練習したチームは __ です。",
+                "correctAnswer": "優しくなかった",
+                "correctAnswer2": "やさしくなかった",
+                "ChineseTranslation": "上周练习的队伍不温柔。",
+                "EnglishTranslation": "The team that practiced last week was not kind."
+            },
+            {
+                "text": "彼は __ です。",
+                "correctAnswer": "賢い",
+                "correctAnswer2": "かしこい",
+                "ChineseTranslation": "他很聪明。",
+                "EnglishTranslation": "He is smart."
+            },
+            {
+                "text": "彼女は __ です。",
+                "correctAnswer": "賢くない",
+                "correctAnswer2": "かしこくない",
+                "ChineseTranslation": "她不聪明。",
+                "EnglishTranslation": "She is not smart."
+            },
+            {
+                "text": "昨日彼は __ です。",
+                "correctAnswer": "賢かった",
+                "correctAnswer2": "かしこかった",
+                "ChineseTranslation": "昨天的他很聪明。",
+                "EnglishTranslation": "He was smart yesterday."
+            },
+            {
+                "text": "先週の彼女は __ です。",
+                "correctAnswer": "賢くなかった",
+                "correctAnswer2": "かしこくなかった",
+                "ChineseTranslation": "上周的她不聪明。",
+                "EnglishTranslation": "She was not smart last week."
+            },
+            {
+                "text": "彼は __ です。",
+                "correctAnswer": "美しい",
+                "correctAnswer2": "うつくしい",
+                "ChineseTranslation": "他很美。",
+                "EnglishTranslation": "He is beautiful."
+            },
+            {
+                "text": "彼女は __ です。",
+                "correctAnswer": "美しくない",
+                "correctAnswer2": "うつくしくない",
+                "ChineseTranslation": "她不美。",
+                "EnglishTranslation": "She is not beautiful."
+            },
+            {
+                "text": "彼は __ です。",
+                "correctAnswer": "静かだ",
+                "correctAnswer2": "しずかだ",
+                "ChineseTranslation": "他很安静。",
+                "EnglishTranslation": "He is quiet."
+            },
+            {
+                "text": "彼女は __ です。",
+                "correctAnswer": "静かではない",
+                "correctAnswer2": "しずかではない",
+                "ChineseTranslation": "她不安静。",
+                "EnglishTranslation": "She is not quiet."
+            },
+            {
+                "text": "昨日の彼は __ でした。",
+                "correctAnswer": "静かだった",
+                "correctAnswer2": "しずかだった",
+                "ChineseTranslation": "昨天的他很安静。",
+                "EnglishTranslation": "He was quiet yesterday."
+            },
+            {
+                "text": "先週の彼女は __ ではなかった",
+                "correctAnswer": "静かではなかった",
+                "correctAnswer2": "しずかではなかった",
+                "ChineseTranslation": "上周的她不安静。",
+                "EnglishTranslation": "She was not quiet last week."
+            },
+            {
+                "text": "彼は __ です。",
+                "correctAnswer": "新しい",
+                "correctAnswer2": "あたらしい",
+                "ChineseTranslation": "他很新。",
+                "EnglishTranslation": "He is new."
+            },
+            {
+                "text": "彼女は __ です。",
+                "correctAnswer": "新しくない",
+                "correctAnswer2": "あたらしくない",
+                "ChineseTranslation": "她不新。",
+                "EnglishTranslation": "She is not new."
+            },
+            {
+                "text": "昨日の彼は __ でした。",
+                "correctAnswer": "新しかった",
+                "correctAnswer2": "あたらしかった",
+                "ChineseTranslation": "昨天的他很新。",
+                "EnglishTranslation": "He was new yesterday."
+            },
+            {
+                "text": "先週の彼女は __ ではなかった",
+                "correctAnswer": "新しくなかった",
+                "correctAnswer2": "あたらしくなかった",
+                "ChineseTranslation": "上周的她不新。",
+                "EnglishTranslation": "She was not new last week."
+            },
+            {
+                "text": "彼は __ です。",
+                "correctAnswer": "早い",
+                "correctAnswer2": "はやい",
+                "ChineseTranslation": "他很快。",
+                "EnglishTranslation": "He is fast."
+            },
+            {
+                "text": "彼女は __ です。",
+                "correctAnswer": "早くない",
+                "correctAnswer2": "はやくない",
+                "ChineseTranslation": "她不快。",
+                "EnglishTranslation": "She is not fast."
+            }
+        ]
+        }
+        ]
+    }
+    
+        
+
+        

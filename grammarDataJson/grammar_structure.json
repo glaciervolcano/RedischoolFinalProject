@@ -1,0 +1,76 @@
+[{
+    "language":"danish", 
+    "image":"../picture/Denmarkpage2.jpg",
+    "grammarPoints": [
+        {
+            "grammarType": "verbs",
+            "subCategories": [
+                { "name": "Past Tense", "id": "pastTense" },
+                { "name": "Perfect Tense", "id": "perfectTense" }
+            ]
+        },
+        {
+            "grammarType": "nouns",
+            "subCategories": [
+                { "name": "Gender", "id": "gender" },
+                { "name": "Plural Form", "id": "pluralForm" }
+            ]
+        },
+        {
+            "grammarType": "adjectives",
+            "subCategories": [{ "name":  "adjectives", "id":  "adjectives" }]
+        }
+    ]
+},
+{
+    "language":"german", 
+    "image":"../picture/Germanpage2.jpg",
+    "grammarPoints":[
+        {
+            "grammarType": "verbs",
+            "subCategories": [
+                { "name": "Past Tense", "id": "pastTense" },
+                { "name": "Perfect Tense", "id": "perfectTense" }
+            ]
+        },
+        {
+            "grammarType": "nouns",
+            "subCategories": [
+                { "name": "Gender", "id": "gender" },
+                { "name": "Plural Form", "id": "pluralForm" }
+            ]
+        },
+        {
+            "grammarType": "adjectives",
+            "subCategories": [{ "name":  "adjectives", "id":  "adjectives" }
+            ]
+        }
+    ]
+},
+{
+    "language":"japanese", 
+    "image":"../picture/Japanpage2.jpg","grammarPoints": [
+        {
+            "grammarType": "verbs",
+            "subCategories": [
+                { "name": "Past Tense", "id": "pastTense" },
+                { "name": "Te Form", "id": "teForm" },
+                { "name": "Masu Form", "id": "masuForm" },
+                { "name": "Negative Form", "id": "negativeForm"}
+            ]
+        },
+        {
+            "grammarType": "nouns",
+            "subCategories": [
+                
+            ]
+        },
+        {
+            "grammarType": "adjectives",
+            "subCategories": [
+                { "name": "i-adjectives", "id": "iAdjectives" },
+                { "name": "na-adjectives", "id": "naAdjectives" }]
+        }
+    ]
+}
+]

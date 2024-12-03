@@ -1,0 +1,947 @@
+{
+    "language": "german",
+        "grammarPoints":[
+        {    
+        "grammarPoint":"nouns",
+        "subCategory": "gender",
+        "Title":"German-Nouns-gender",
+        "exercises": [
+            {
+                "text": "___ Frau",
+                "correctAnswer": "die",
+                "ChineseTranslation": "女人",
+                "EnglishTranslation": "woman"
+            },
+            {
+                "text": "___ Katze",
+                "correctAnswer": "die",
+                "ChineseTranslation": "猫",
+                "EnglishTranslation": "cat"
+            },
+            {
+                "text": "___ Schule",
+                "correctAnswer": "die",
+                "ChineseTranslation": "学校",
+                "EnglishTranslation": "school"
+            },
+            {
+                "text": "___ Straße",
+                "correctAnswer": "die",
+                "ChineseTranslation": "街道",
+                "EnglishTranslation": "street"
+            },
+            {
+                "text": "___ Blume",
+                "correctAnswer": "die",
+                "ChineseTranslation": "花",
+                "EnglishTranslation": "flower"
+            },
+            {
+                "text": "___ Uhr",
+                "correctAnswer": "die",
+                "ChineseTranslation": "钟表",
+                "EnglishTranslation": "clock"
+            },
+            {
+                "text": "___ Hand",
+                "correctAnswer": "die",
+                "ChineseTranslation": "手",
+                "EnglishTranslation": "hand"
+            },
+            {
+                "text": "___ Zeitung",
+                "correctAnswer": "die",
+                "ChineseTranslation": "报纸",
+                "EnglishTranslation": "newspaper"
+            },
+            {
+                "text": "___ Familie",
+                "correctAnswer": "die",
+                "ChineseTranslation": "家庭",
+                "EnglishTranslation": "family"
+            },
+            {
+                "text": "___ Tür",
+                "correctAnswer": "die",
+                "ChineseTranslation": "门",
+                "EnglishTranslation": "door"
+            },
+            {
+                "text": "___ Mann",
+                "correctAnswer": "der",
+                "ChineseTranslation": "男人",
+                "EnglishTranslation": "man"
+            },
+            {
+                "text": "___ Hund",
+                "correctAnswer": "der",
+                "ChineseTranslation": "狗",
+                "EnglishTranslation": "dog"
+            },
+            {
+                "text": "___ Tisch",
+                "correctAnswer": "der",
+                "ChineseTranslation": "桌子",
+                "EnglishTranslation": "table"
+            },
+            {
+                "text": "___ Stuhl",
+                "correctAnswer": "der",
+                "ChineseTranslation": "椅子",
+                "EnglishTranslation": "chair"
+            },
+            {
+                "text": "___ Apfel",
+                "correctAnswer": "der",
+                "ChineseTranslation": "苹果",
+                "EnglishTranslation": "apple"
+            },
+            {
+                "text": "___ Freund",
+                "correctAnswer": "der",
+                "ChineseTranslation": "朋友",
+                "EnglishTranslation": "friend"
+            },
+            {
+                "text": "___ Tag",
+                "correctAnswer": "der",
+                "ChineseTranslation": "天/日",
+                "EnglishTranslation": "day"
+            },
+            {
+                "text": "___ Sohn",
+                "correctAnswer": "der",
+                "ChineseTranslation": "儿子",
+                "EnglishTranslation": "son"
+            },
+            {
+                "text": "___ Garten",
+                "correctAnswer": "der",
+                "ChineseTranslation": "花园",
+                "EnglishTranslation": "garden"
+            },
+            {
+                "text": "___ Kaffee",
+                "correctAnswer": "der",
+                "ChineseTranslation": "咖啡",
+                "EnglishTranslation": "coffee"
+            },
+            {
+                "text": "___ Kind",
+                "correctAnswer": "das",
+                "ChineseTranslation": "孩子",
+                "EnglishTranslation": "child"
+            },
+            {
+                "text": "___ Haus",
+                "correctAnswer": "das",
+                "ChineseTranslation": "房子",
+                "EnglishTranslation": "house"
+            },
+            {
+                "text": "___ Auto",
+                "correctAnswer": "das",
+                "ChineseTranslation": "汽车",
+                "EnglishTranslation": "car"
+            },
+            {
+                "text": "___ Buch",
+                "correctAnswer": "das",
+                "ChineseTranslation": "书",
+                "EnglishTranslation": "book"
+            },
+            {
+                "text": "___ Fenster",
+                "correctAnswer": "das",
+                "ChineseTranslation": "窗户",
+                "EnglishTranslation": "window"
+            },
+            {
+                "text": "___ Bett",
+                "correctAnswer": "das",
+                "ChineseTranslation": "床",
+                "EnglishTranslation": "bed"
+            },
+            {
+                "text": "___ Problem",
+                "correctAnswer": "das",
+                "ChineseTranslation": "问题",
+                "EnglishTranslation": "problem"
+            },
+            {
+                "text": "___ Bild",
+                "correctAnswer": "das",
+                "ChineseTranslation": "图片",
+                "EnglishTranslation": "picture"
+            },
+            {
+                "text": "___ Wasser",
+                "correctAnswer": "das",
+                "ChineseTranslation": "水",
+                "EnglishTranslation": "water"
+            },
+            {
+                "text": "___ Mädchen",
+                "correctAnswer": "das",
+                "ChineseTranslation": "女孩",
+                "EnglishTranslation": "girl"
+            }
+        ]
+        },
+        {    
+        "grammarPoint":"nouns",
+        "subCategory": "pluralForm",
+        "Title":"German-Nouns-Plural Form",
+        "exercises": [
+            {
+                "text": "Frau",
+                "correctAnswer": "Frauen",
+                "ChineseTranslation": "女人",
+                "EnglishTranslation": "woman"
+            },
+            {
+                "text": "Katze",
+                "correctAnswer": "Katzen",
+                "ChineseTranslation": "猫",
+                "EnglishTranslation": "cat"
+            },
+            {
+                "text": "Schule",
+                "correctAnswer": "Schulen",
+                "ChineseTranslation": "学校",
+                "EnglishTranslation": "school"
+            },
+            {
+                "text": "Straße",
+                "correctAnswer": "Straßen",
+                "ChineseTranslation": "街道",
+                "EnglishTranslation": "street"
+            },
+            {
+                "text": "Blume",
+                "correctAnswer": "Blumen",
+                "ChineseTranslation": "花",
+                "EnglishTranslation": "flower"
+            },
+            {
+                "text": "Uhr",
+                "correctAnswer": "Uhren",
+                "ChineseTranslation": "钟表",
+                "EnglishTranslation": "clock"
+            },
+            {
+                "text": "Hand",
+                "correctAnswer": "Hände",
+                "ChineseTranslation": "手",
+                "EnglishTranslation": "hand"
+            },
+            {
+                "text": "Zeitung",
+                "correctAnswer": "Zeitungen",
+                "ChineseTranslation": "报纸",
+                "EnglishTranslation": "newspaper"
+            },
+            {
+                "text": "Familie",
+                "correctAnswer": "Familien",
+                "ChineseTranslation": "家庭",
+                "EnglishTranslation": "family"
+            },
+            {
+                "text": "Tür",
+                "correctAnswer": "Türen",
+                "ChineseTranslation": "门",
+                "EnglishTranslation": "door"
+            },
+            {
+                "text": "Mann",
+                "correctAnswer": "Männer",
+                "ChineseTranslation": "男人",
+                "EnglishTranslation": "man"
+            },
+            {
+                "text": "Hund",
+                "correctAnswer": "Hunde",
+                "ChineseTranslation": "狗",
+                "EnglishTranslation": "dog"
+            },
+            {
+                "text": "Tisch",
+                "correctAnswer": "Tische",
+                "ChineseTranslation": "桌子",
+                "EnglishTranslation": "table"
+            },
+            {
+                "text": "Stuhl",
+                "correctAnswer": "Stühle",
+                "ChineseTranslation": "椅子",
+                "EnglishTranslation": "chair"
+            },
+            {
+                "text": "Apfel",
+                "correctAnswer": "Äpfel",
+                "ChineseTranslation": "苹果",
+                "EnglishTranslation": "apple"
+            },
+            {
+                "text": "Freund",
+                "correctAnswer": "Freunde",
+                "ChineseTranslation": "朋友",
+                "EnglishTranslation": "friend"
+            },
+            {
+                "text": "Tag",
+                "correctAnswer": "Tage",
+                "ChineseTranslation": "天/日",
+                "EnglishTranslation": "day"
+            },
+            {
+                "text": "Sohn",
+                "correctAnswer": "Söhne",
+                "ChineseTranslation": "儿子",
+                "EnglishTranslation": "son"
+            },
+            {
+                "text": "Garten",
+                "correctAnswer": "Gärten",
+                "ChineseTranslation": "花园",
+                "EnglishTranslation": "garden"
+            },
+            {
+                "text": "Kaffee",
+                "correctAnswer": "Kaffees",
+                "ChineseTranslation": "咖啡",
+                "EnglishTranslation": "coffee"
+            },
+            {
+                "text": "Kind",
+                "correctAnswer": "Kinder",
+                "ChineseTranslation": "孩子",
+                "EnglishTranslation": "child"
+            },
+            {
+                "text": "Haus",
+                "correctAnswer": "Häuser",
+                "ChineseTranslation": "房子",
+                "EnglishTranslation": "house"
+            },
+            {
+                "text": "Auto",
+                "correctAnswer": "Autos",
+                "ChineseTranslation": "汽车",
+                "EnglishTranslation": "car"
+            },
+            {
+                "text": "Buch",
+                "correctAnswer": "Bücher",
+                "ChineseTranslation": "书",
+                "EnglishTranslation": "book"
+            },
+            {
+                "text": "Fenster",
+                "correctAnswer": "Fenster",
+                "ChineseTranslation": "窗户",
+                "EnglishTranslation": "window"
+            },
+            {
+                "text": "Bett",
+                "correctAnswer": "Betten",
+                "ChineseTranslation": "床",
+                "EnglishTranslation": "bed"
+            },
+            {
+                "text": "Problem",
+                "correctAnswer": "Probleme",
+                "ChineseTranslation": "问题",
+                "EnglishTranslation": "problem"
+            },
+            {
+                "text": "Bild",
+                "correctAnswer": "Bilder",
+                "ChineseTranslation": "图片",
+                "EnglishTranslation": "picture"
+            },
+            {
+                "text": "Wasser",
+                "correctAnswer": "Wässer",
+                "ChineseTranslation": "水",
+                "EnglishTranslation": "water"
+            },
+            {
+                "text": "Mädchen",
+                "correctAnswer": "Mädchen",
+                "ChineseTranslation": "女孩",
+                "EnglishTranslation": "girl"
+            }
+        ]
+        },
+        {    
+        "grammarPoint":"verbs",
+        "subCategory": "pastTense",
+        "Title":"German-Verbs-Past Tense",
+        "exercises":[
+            {
+                "text": "gehen",
+                "correctAnswer": "ging",
+                "ChineseTranslation": "走",
+                "EnglishTranslation": "to go"
+            },
+            {
+                "text": "kommen",
+                "correctAnswer": "kam",
+                "ChineseTranslation": "来",
+                "EnglishTranslation": "to come"
+            },
+            {
+                "text": "sehen",
+                "correctAnswer": "sah",
+                "ChineseTranslation": "看",
+                "EnglishTranslation": "to see"
+            },
+            {
+                "text": "machen",
+                "correctAnswer": "machte",
+                "ChineseTranslation": "做",
+                "EnglishTranslation": "to do/make"
+            },
+            {
+                "text": "haben",
+                "correctAnswer": "hatte",
+                "ChineseTranslation": "有",
+                "EnglishTranslation": "to have"
+            },
+            {
+                "text": "sein",
+                "correctAnswer": "war",
+                "ChineseTranslation": "是",
+                "EnglishTranslation": "to be"
+            },
+            {
+                "text": "nehmen",
+                "correctAnswer": "nahm",
+                "ChineseTranslation": "拿",
+                "EnglishTranslation": "to take"
+            },
+            {
+                "text": "geben",
+                "correctAnswer": "gab",
+                "ChineseTranslation": "给",
+                "EnglishTranslation": "to give"
+            },
+            {
+                "text": "finden",
+                "correctAnswer": "fand",
+                "ChineseTranslation": "找到",
+                "EnglishTranslation": "to find"
+            },
+            {
+                "text": "denken",
+                "correctAnswer": "dachte",
+                "ChineseTranslation": "想/思考",
+                "EnglishTranslation": "to think"
+            },
+            {
+                "text": "wissen",
+                "correctAnswer": "wusste",
+                "ChineseTranslation": "知道",
+                "EnglishTranslation": "to know"
+            },
+            {
+                "text": "sagen",
+                "correctAnswer": "sagte",
+                "ChineseTranslation": "说",
+                "EnglishTranslation": "to say"
+            },
+            {
+                "text": "essen",
+                "correctAnswer": "aß",
+                "ChineseTranslation": "吃",
+                "EnglishTranslation": "to eat"
+            },
+            {
+                "text": "trinken",
+                "correctAnswer": "trank",
+                "ChineseTranslation": "喝",
+                "EnglishTranslation": "to drink"
+            },
+            {
+                "text": "schreiben",
+                "correctAnswer": "schrieb",
+                "ChineseTranslation": "写",
+                "EnglishTranslation": "to write"
+            },
+            {
+                "text": "lesen",
+                "correctAnswer": "las",
+                "ChineseTranslation": "读",
+                "EnglishTranslation": "to read"
+            },
+            {
+                "text": "helfen",
+                "correctAnswer": "half",
+                "ChineseTranslation": "帮助",
+                "EnglishTranslation": "to help"
+            },
+            {
+                "text": "schlafen",
+                "correctAnswer": "schlief",
+                "ChineseTranslation": "睡觉",
+                "EnglishTranslation": "to sleep"
+            },
+            {
+                "text": "sprechen",
+                "correctAnswer": "sprach",
+                "ChineseTranslation": "说话",
+                "EnglishTranslation": "to speak"
+            },
+            {
+                "text": "laufen",
+                "correctAnswer": "lief",
+                "ChineseTranslation": "跑",
+                "EnglishTranslation": "to run"
+            },
+            {
+                "text": "bringen",
+                "correctAnswer": "brachte",
+                "ChineseTranslation": "带来",
+                "EnglishTranslation": "to bring"
+            },
+            {
+                "text": "fragen",
+                "correctAnswer": "fragte",
+                "ChineseTranslation": "问",
+                "EnglishTranslation": "to ask"
+            },
+            {
+                "text": "arbeiten",
+                "correctAnswer": "arbeitete",
+                "ChineseTranslation": "工作",
+                "EnglishTranslation": "to work"
+            },
+            {
+                "text": "spielen",
+                "correctAnswer": "spielte",
+                "ChineseTranslation": "玩/演奏",
+                "EnglishTranslation": "to play"
+            },
+            {
+                "text": "wohnen",
+                "correctAnswer": "wohnte",
+                "ChineseTranslation": "居住",
+                "EnglishTranslation": "to live"
+            },
+            {
+                "text": "lernen",
+                "correctAnswer": "lernte",
+                "ChineseTranslation": "学习",
+                "EnglishTranslation": "to learn"
+            },
+            {
+                "text": "kaufen",
+                "correctAnswer": "kaufte",
+                "ChineseTranslation": "购买",
+                "EnglishTranslation": "to buy"
+            },
+            {
+                "text": "rufen",
+                "correctAnswer": "rief",
+                "ChineseTranslation": "呼喊",
+                "EnglishTranslation": "to call"
+            },
+            {
+                "text": "stehen",
+                "correctAnswer": "stand",
+                "ChineseTranslation": "站立",
+                "EnglishTranslation": "to stand"
+            },
+            {
+                "text": "fahren",
+                "correctAnswer": "fuhr",
+                "ChineseTranslation": "驾驶/乘坐",
+                "EnglishTranslation": "to drive/travel"
+            }
+        ]
+        
+    },
+    {    
+        "grammarPoint":"verbs",
+        "subCategory": "perfectTense",
+        "Title":"German-Verbs-Perfect Tense",
+        "exercises":[
+            {
+                "text": "gehen",
+                "correctAnswer": "sein gegangen",
+                "ChineseTranslation": "走",
+                "EnglishTranslation": "to go"
+            },
+            {
+                "text": "kommen",
+                "correctAnswer": "sein gekommen",
+                "ChineseTranslation": "来",
+                "EnglishTranslation": "to come"
+            },
+            {
+                "text": "sehen",
+                "correctAnswer": "haben gesehen",
+                "ChineseTranslation": "看",
+                "EnglishTranslation": "to see"
+            },
+            {
+                "text": "machen",
+                "correctAnswer": "haben gemacht",
+                "ChineseTranslation": "做",
+                "EnglishTranslation": "to do/make"
+            },
+            {
+                "text": "haben",
+                "correctAnswer": "haben gehabt",
+                "ChineseTranslation": "有",
+                "EnglishTranslation": "to have"
+            },
+            {
+                "text": "sein",
+                "correctAnswer": "sein gewesen",
+                "ChineseTranslation": "是",
+                "EnglishTranslation": "to be"
+            },
+            {
+                "text": "nehmen",
+                "correctAnswer": "haben genommen",
+                "ChineseTranslation": "拿",
+                "EnglishTranslation": "to take"
+            },
+            {
+                "text": "geben",
+                "correctAnswer": "haben gegeben",
+                "ChineseTranslation": "给",
+                "EnglishTranslation": "to give"
+            },
+            {
+                "text": "finden",
+                "correctAnswer": "haben gefunden",
+                "ChineseTranslation": "找到",
+                "EnglishTranslation": "to find"
+            },
+            {
+                "text": "denken",
+                "correctAnswer": "haben gedacht",
+                "ChineseTranslation": "想/思考",
+                "EnglishTranslation": "to think"
+            },
+            {
+                "text": "wissen",
+                "correctAnswer": "haben gewusst",
+                "ChineseTranslation": "知道",
+                "EnglishTranslation": "to know"
+            },
+            {
+                "text": "sagen",
+                "correctAnswer": "haben gesagt",
+                "ChineseTranslation": "说",
+                "EnglishTranslation": "to say"
+            },
+            {
+                "text": "essen",
+                "correctAnswer": "haben gegessen",
+                "ChineseTranslation": "吃",
+                "EnglishTranslation": "to eat"
+            },
+            {
+                "text": "trinken",
+                "correctAnswer": "haben getrunken",
+                "ChineseTranslation": "喝",
+                "EnglishTranslation": "to drink"
+            },
+            {
+                "text": "schreiben",
+                "correctAnswer": "haben geschrieben",
+                "ChineseTranslation": "写",
+                "EnglishTranslation": "to write"
+            },
+            {
+                "text": "lesen",
+                "correctAnswer": "haben gelesen",
+                "ChineseTranslation": "读",
+                "EnglishTranslation": "to read"
+            },
+            {
+                "text": "helfen",
+                "correctAnswer": "haben geholfen",
+                "ChineseTranslation": "帮助",
+                "EnglishTranslation": "to help"
+            },
+            {
+                "text": "schlafen",
+                "correctAnswer": "haben geschlafen",
+                "ChineseTranslation": "睡觉",
+                "EnglishTranslation": "to sleep"
+            },
+            {
+                "text": "sprechen",
+                "correctAnswer": "haben gesprochen",
+                "ChineseTranslation": "说话",
+                "EnglishTranslation": "to speak"
+            },
+            {
+                "text": "laufen",
+                "correctAnswer": "sein gelaufen",
+                "ChineseTranslation": "跑",
+                "EnglishTranslation": "to run"
+            },
+            {
+                "text": "bringen",
+                "correctAnswer": "haben gebracht",
+                "ChineseTranslation": "带来",
+                "EnglishTranslation": "to bring"
+            },
+            {
+                "text": "fragen",
+                "correctAnswer": "haben gefragt",
+                "ChineseTranslation": "问",
+                "EnglishTranslation": "to ask"
+            },
+            {
+                "text": "arbeiten",
+                "correctAnswer": "haben gearbeitet",
+                "ChineseTranslation": "工作",
+                "EnglishTranslation": "to work"
+            },
+            {
+                "text": "spielen",
+                "correctAnswer": "haben gespielt",
+                "ChineseTranslation": "玩/演奏",
+                "EnglishTranslation": "to play"
+            },
+            {
+                "text": "wohnen",
+                "correctAnswer": "haben gewohnt",
+                "ChineseTranslation": "居住",
+                "EnglishTranslation": "to live"
+            },
+            {
+                "text": "lernen",
+                "correctAnswer": "haben gelernt",
+                "ChineseTranslation": "学习",
+                "EnglishTranslation": "to learn"
+            },
+            {
+                "text": "kaufen",
+                "correctAnswer": "haben gekauft",
+                "ChineseTranslation": "购买",
+                "EnglishTranslation": "to buy"
+            },
+            {
+                "text": "rufen",
+                "correctAnswer": "haben gerufen",
+                "ChineseTranslation": "呼喊",
+                "EnglishTranslation": "to call"
+            },
+            {
+                "text": "stehen",
+                "correctAnswer": "haben gestanden",
+                "ChineseTranslation": "站立",
+                "EnglishTranslation": "to stand"
+            },
+            {
+                "text": "fahren",
+                "correctAnswer": "sein gefahren",
+                "ChineseTranslation": "驾驶/乘坐",
+                "EnglishTranslation": "to drive/travel"
+            }
+        ]
+    },
+    {    
+        "grammarPoint":"adjectives",
+        "subCategory": "adjectives",
+        "Title":"German-Adjectives",
+        "exercises":[
+            {
+                "text": "Das ist ein _______ Hund.",
+                "correctAnswer": "großer",
+                "ChineseTranslation": "这是一只大狗。",
+                "EnglishTranslation": "This is a big dog."
+            },
+            {
+                "text": "Ich habe eine _______ Katze.",
+                "correctAnswer": "kleine",
+                "ChineseTranslation": "我有一只小猫。",
+                "EnglishTranslation": "I have a small cat."
+            },
+            {
+                "text": "Er kauft das _______ Auto.",
+                "correctAnswer": "neue",
+                "ChineseTranslation": "他买那辆新车。",
+                "EnglishTranslation": "He buys the new car."
+            },
+            {
+                "text": "Wir besuchen die _______ Städte.",
+                "correctAnswer": "großen",
+                "ChineseTranslation": "我们参观那些大城市。",
+                "EnglishTranslation": "We visit the big cities."
+            },
+            {
+                "text": "Sie wohnt in einem _______ Haus.",
+                "correctAnswer": "alten",
+                "ChineseTranslation": "她住在一座老房子里。",
+                "EnglishTranslation": "She lives in an old house."
+            },
+            {
+                "text": "Das ist eine _______ Blume.",
+                "correctAnswer": "schöne",
+                "ChineseTranslation": "这是一朵美丽的花。",
+                "EnglishTranslation": "This is a beautiful flower."
+            },
+            {
+                "text": "Er trägt einen _______ Mantel.",
+                "correctAnswer": "schwarzen",
+                "ChineseTranslation": "他穿一件黑色的外套。",
+                "EnglishTranslation": "He wears a black coat."
+            },
+            {
+                "text": "Das _______ Kind spielt im Park.",
+                "correctAnswer": "fröhliche",
+                "ChineseTranslation": "那个快乐的孩子在公园里玩。",
+                "EnglishTranslation": "The happy child is playing in the park."
+            },
+            {
+                "text": "Ich sehe einen _______ Baum.",
+                "correctAnswer": "hohen",
+                "ChineseTranslation": "我看到一棵高树。",
+                "EnglishTranslation": "I see a tall tree."
+            },
+            {
+                "text": "Wir lesen die _______ Bücher.",
+                "correctAnswer": "interessanten",
+                "ChineseTranslation": "我们读那些有趣的书。",
+                "EnglishTranslation": "We read the interesting books."
+            },
+            {
+                "text": "Das ist kein _______ Problem.",
+                "correctAnswer": "großes",
+                "ChineseTranslation": "这不是个大问题。",
+                "EnglishTranslation": "This is not a big problem."
+            },
+            {
+                "text": "Sie hat einen _______ Bruder.",
+                "correctAnswer": "jüngeren",
+                "ChineseTranslation": "她有一个更年轻的兄弟。",
+                "EnglishTranslation": "She has a younger brother."
+            },
+            {
+                "text": "Ich mag das _______ Wetter.",
+                "correctAnswer": "warme",
+                "ChineseTranslation": "我喜欢温暖的天气。",
+                "EnglishTranslation": "I like the warm weather."
+            },
+            {
+                "text": "Wir wohnen in einer _______ Wohnung.",
+                "correctAnswer": "kleinen",
+                "ChineseTranslation": "我们住在一个小公寓里。",
+                "EnglishTranslation": "We live in a small apartment."
+            },
+            {
+                "text": "Das sind _______ Kinder.",
+                "correctAnswer": "freundliche",
+                "ChineseTranslation": "这些是友善的孩子。",
+                "EnglishTranslation": "These are friendly children."
+            },
+            {
+                "text": "Sie trägt ein _______ Kleid.",
+                "correctAnswer": "rotes",
+                "ChineseTranslation": "她穿着一件红色的裙子。",
+                "EnglishTranslation": "She is wearing a red dress."
+            },
+            {
+                "text": "Wir haben _______ Freunde eingeladen.",
+                "correctAnswer": "gute",
+                "ChineseTranslation": "我们邀请了好朋友。",
+                "EnglishTranslation": "We invited good friends."
+            },
+            {
+                "text": "Das ist ein sehr _______ Film.",
+                "correctAnswer": "interessanter",
+                "ChineseTranslation": "这是一部非常有趣的电影。",
+                "EnglishTranslation": "This is a very interesting movie."
+            },
+            {
+                "text": "Sie fährt ein _______ Fahrrad.",
+                "correctAnswer": "neues",
+                "ChineseTranslation": "她骑一辆新自行车。",
+                "EnglishTranslation": "She rides a new bicycle."
+            },
+            {
+                "text": "Der _______ Mann hilft mir.",
+                "correctAnswer": "freundliche",
+                "ChineseTranslation": "那个友善的男人帮助我。",
+                "EnglishTranslation": "The friendly man helps me."
+            },
+            {
+                "text": "Er kauft ein _______ Buch.",
+                "correctAnswer": "altes",
+                "ChineseTranslation": "他买了一本旧书。",
+                "EnglishTranslation": "He buys an old book."
+            },
+            {
+                "text": "Das sind _______ Geschichten.",
+                "correctAnswer": "spannende",
+                "ChineseTranslation": "这些是激动人心的故事。",
+                "EnglishTranslation": "These are exciting stories."
+            },
+            {
+                "text": "Er trinkt _______ Wasser.",
+                "correctAnswer": "kaltes",
+                "ChineseTranslation": "他喝冷水。",
+                "EnglishTranslation": "He drinks cold water."
+            },
+            {
+                "text": "Das ist ein _______ Tag.",
+                "correctAnswer": "schöner",
+                "ChineseTranslation": "这是美好的一天。",
+                "EnglishTranslation": "This is a beautiful day."
+            },
+            {
+                "text": "Ich habe ein _______ Geschenk gekauft.",
+                "correctAnswer": "teures",
+                "ChineseTranslation": "我买了一份昂贵的礼物。",
+                "EnglishTranslation": "I bought an expensive gift."
+            },
+            {
+                "text": "Er arbeitet in einem _______ Büro.",
+                "correctAnswer": "großen",
+                "ChineseTranslation": "他在一个大办公室里工作。",
+                "EnglishTranslation": "He works in a big office."
+            },
+            {
+                "text": "Das ist ein _______ Lehrer.",
+                "correctAnswer": "geduldiger",
+                "ChineseTranslation": "这是一位耐心的老师。",
+                "EnglishTranslation": "This is a patient teacher."
+            },
+            {
+                "text": "Sie hat eine _______ Frage gestellt.",
+                "correctAnswer": "komplizierte",
+                "ChineseTranslation": "她问了一个复杂的问题。",
+                "EnglishTranslation": "She asked a complicated question."
+            },
+            {
+                "text": "Wir haben eine _______ Reise gemacht.",
+                "correctAnswer": "lange",
+                "ChineseTranslation": "我们进行了一次长途旅行。",
+                "EnglishTranslation": "We took a long journey."
+            },
+            {
+                "text": "Er hat _______ Freunde.",
+                "correctAnswer": "treue",
+                "ChineseTranslation": "他有忠诚的朋友。",
+                "EnglishTranslation": "He has loyal friends."
+            }
+        ]
+    }
+]
+}
+        
+
+        
+
+        
+        

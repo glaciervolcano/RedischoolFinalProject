@@ -1,0 +1,274 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav{
+    width:100%;
+    background-color: #323743;
+    box-shadow:0 1px 2px;
+    float: left;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:relative;
+}
+.fixed-icon{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin:10px;
+}
+.logo-text{
+    color: white;
+    font-size: 30px;
+    margin:10px;
+}
+.nav-links{
+    list-style: none;
+}
+.nav-links li{
+    display: inline-block;    
+    margin: 25px;
+}
+a{
+    font-size: 20px ;
+    color: white;
+    text-decoration: none;
+}
+#contactButton{
+    margin: 15px;
+    width: 50px; 
+    height: 30px;
+    border-radius: 20%;
+    background-color: rgb(243, 166, 166);
+    color: black;
+    font-size: 12px;
+    cursor: pointer; 
+    
+}
+.main-container{
+    background-color: #fff6e9;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap:20px;
+    width:100%;
+    padding:20px;
+}
+.main-image{
+    width: 550px;
+    height: 800px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+section{
+    flex:1;
+    padding:40px;
+}
+.main-text{
+    color: #658398;
+    font-size: 50px;
+    
+}
+.body-text{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+h4{
+    font-size: 30px;
+    
+}
+
+#card1{
+
+    background-image: url("picture/German1.jpg");  
+    background-size: cover;
+}
+#card2{
+
+    background-image: url("picture/dkpage1.jpg");  
+    background-size: cover;
+}
+#card3{
+
+    background-image: url("picture/japan1.jpg");  
+    background-size: cover;
+}
+.card{
+    width:200px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius:10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    margin:80px 15px;
+    background-position: center;
+    background-image: none;  
+    background-size: cover;
+    
+}
+
+.card button{
+    width: 150px;
+    height: 60px;
+    color: rgb(223, 215, 196);
+    cursor: pointer;
+    background-color: rgba(30, 122, 122, 0.3);
+    font-size: 25px;
+    
+    
+    
+}
+
+
+
+.main-container-selection {
+    background-color: #fff6e9;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    height: 100%; /* 设置高度为100% */
+    padding: 20px;
+    box-sizing: border-box; /* 确保padding不会导致容器超出 */
+}
+
+.country-picture{
+    width: 700px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+
+#languageTitle{
+    color: #658398;
+    font-size: 60px;
+}
+
+.grammar-point{
+    background-color: #fff6e9;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap:20px;
+    width:100%;
+    padding:20px;
+
+}
+#grammarButtons {
+    display: flex;
+    flex-wrap: wrap;          /* 允许换行 */
+    gap: 10px;                /* 设置按钮间的间隙 */
+    justify-content: flex-start;
+    max-width: 100%;
+    padding: 10px;
+    box-sizing: border-box;   /* 让padding不导致溢出 */
+}
+
+.grammar-btn {
+    flex: 1 1 150px;          /* 让按钮占用至少150px的宽度并且允许伸缩 */
+    max-width: 150px;         /* 设置最大宽度 */
+    height: 60px;
+    color: #323743;
+    cursor: pointer;
+    background-color: rgba(103, 172, 227, 0.3);
+    font-size: 25px;
+    border-radius: 18%;
+    border: none;
+    text-align: center;
+    margin: 5px;              /* 按钮间距 */
+}
+
+
+
+
+.grammar-title{
+    font-size: 35px;
+}
+
+
+
+/*quizz site*/
+.question-container{
+    height: 100vh;
+    background-color: #fff6e9;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap:20px;
+    width:100%;
+    padding:20px;
+ 
+}
+
+
+
+#questionArea{
+    font-size: 80px;
+    color: black;
+
+}
+#inputAnswerArea{
+    width: 400px; 
+    height: 60px; 
+    font-size: 35px;
+}
+.button-group{
+    display: flex;              
+    flex-direction: row;         
+    justify-content: space-around;
+    gap: 20px;                   
+    width: 80%;
+    max-width: 400px;
+}
+#submitBtn,#nextBtn{
+    width: 80px; 
+    height: 50px;
+    border-radius: 20%;
+    background-color: rgb(171, 210, 139);
+    color: black;
+    font-size: 22px;
+    cursor: pointer; 
+ 
+}
+#feedbackArea{
+    font-size: 35px;
+    height: 42px;
+}
+
+
+#submitBtn.disabled {
+    background-color: gray t;  
+    cursor: not-allowed ;    
+}
+
+#orderSwitch{
+    width: 180px; 
+    height: 65px;
+    border-radius: 20%;
+    background-color: rgb(247, 217, 146);
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+}
