@@ -1,6 +1,6 @@
 [{
     "language":"danish", 
-    "image":"../picture/Denmarkpage2.jpg",
+    "image":"/RedischoolFinalProject/picture/Denmarkpage2.jpg",
     "grammarPoints": [
         {
             "grammarType": "verbs",
@@ -24,7 +24,7 @@
 },
 {
     "language":"german", 
-    "image":"../picture/Germanpage2.jpg",
+    "image":"/RedischoolFinalProject/picture/Germanpage2.jpg",
     "grammarPoints":[
         {
             "grammarType": "verbs",
@@ -49,7 +49,7 @@
 },
 {
     "language":"japanese", 
-    "image":"../picture/Japanpage2.jpg","grammarPoints": [
+    "image":"/RedischoolFinalProject/picture/Japanpage2.jpg","grammarPoints": [
         {
             "grammarType": "verbs",
             "subCategories": [
